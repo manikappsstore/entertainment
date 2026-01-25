@@ -1,45 +1,446 @@
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/9344df6a-a6e5-4e15-9c91-d14efbb4e813.jpg" group-title="Bangla Movie", I Love You (2007)
+#EXTM3U
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Badland_Hunters_Dubbed" tvg-logo="https://image.tmdb.org/t/p/w500/kq5FiswTgmWVPpmGGqbSHMbRR3O.jpg",Antoratma (2025)
+https://pixeldrain.com/api/file/YkF1ziCt
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Badland_Hunters_Dubbed" tvg-logo="https://image.tmdb.org/t/p/original/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg",Badland Hunters Dubbed (2024)
+https://pixeldra.in/api/file/GA46iMCu?download
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Tofan" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/abcq7WjoFx4WGU0HLcuOytpkLFG.jpg",Tofan (2024)
+https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Mone_Rekho" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDliMWMxMGMtNjllMy00MWI2LTg3ODctYTliYjczNmNmMDc3XkEyXkFqcGc@._V1_.jpg",Mone Rekho (2018)
+https://dl.dropboxusercontent.com/scl/fi/pptiayf3rd0hmehtisbsj/MLSBD.Shop-Mone-Rekho-2019-RarbgHD.Live-Bengali-720p.mkv?rlkey=guyio0qa1ardgoxqc5nolmki1&dl=1.mkv
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Parbona_Ami_Chartey_Tokey" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1WJl1ZBg51hBx5UA39vrC39F7Ft.jpg",Parbona Ami Chartey Tokey (2015)
+https://dl.dropboxusercontent.com/scl/fi/u1tqqxvlnbm9brkdgahui/Parbo.Na.Aami.Chartey.Toke.2017.720p.AMZN.WebRip.AAC2.0.H.264-MovieLinkBD.mkv?rlkey=7b7bs70bhivbglli2yivc29mp&dl=1.mkv
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Amazon_Obhijaan" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Ir8Fw9VI9j1dcMbdBiwSY8wubz.jpg",Amazon Obhijaan (2009)
+https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazon.Obhijaan.2017.720p.mkv?rlkey=teexwav1olvy172f87mnf2j35&dl=1.mkv
+#EXTINF:-1 group-title="Movies - Hindi" tvg-id="Pippa" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7bD664CWGigcjlT8wf2VR3KZCtK.jpg",Pippa (2023)
+https://wh1168170.ispot.cc/Pippa.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hqyrOo1HX570sQycAr6PYGFRFDc.jpg",ক্রান্তি
+https://cdn1.discoveryftp.net/Movies/Bangla/2006/Kranti/Kranti%202006%20Bengali%201080p%20WEB-DL%20X265.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yfip0BVERoWiafBwwMzTnuEI3yC.jpg",সাথীহারা
+https://cdn1.discoveryftp.net/Movies/Bangla/2006/Sathihara/Saathi%20Hara%20(2006)%20720p%20HDRip.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ftbmhaREWvGYlrbJ9UQaCsjOPhF.jpg",বর আসবে এখুনি
+http://ftp.timepassbd.live/timepassbd-data/ftp2/BANGLA_MOVIES/2005-2009/Bor%20Asbe%20Ekhuni%20%282008%29/Bor%20Asbe%20Ekhuni%20%282008%29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7S71WgitLHw8NA59OJgYagNvV22.jpg",ভালোবাসা ভালোবাসা
+https://cdn1.discoveryftp.net/Movies/Bangla/2008/Bhalobasa%20Bhalobasa/Bhalobasa%20Bhalobasa%20(2008)%20720p%20HDTV%20By%20SagarSingha(TeamDMR)%201st%20On%20Net%20Xclusive.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7NLAcuRzvuyyTK2tCECL897Rm4X.jpg",চিরদিনই তুমি যে আমার
+https://cdn1.discoveryftp.net/Movies/Bangla/2008/Chirodini%20Tumi%20Je%20Amar/Chirodini.Tumi.Je.Amar.1080p.Hoichoi.WEB-DL.ACC2.0.H.264-TheDefiler.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zbhU0wMcTn0rB45v2XLo8KX8C4H.jpg",প্রেমের কাহিনী
+https://cdn1.discoveryftp.net/Movies/Bangla/2008/Premer%20Kahini/Premer.Kahini.2008.1080p.HOICHOI.WEB-DL.Bengali.AAC2.0.H.264-Rip%20By%20MLSBD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g3FpaQ3hwuhRWCOkOMMcstQLPb8.jpg",চ্যালেঞ্জ
+https://cdn1.discoveryftp.net/Movies/Bangla/2009/Challenge/Challenge.1080p.Hoichoi.WEB-2009.DL.ACC2.0.H.264.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zHvvOSJql3zuL4LT1I3g7TjmHGO.jpg",দুজনে
+https://cdn1.discoveryftp.net/Movies/Bangla/2009/Dujone/Dujone%20(2009)%20Bengali%20JC%20WEB-DL%20H264%20AAC%201080p%202.2GB.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9Sa0L64JVYOB4evgRmVAr5RSGDi.jpg",হাসি খুশি ক্লাব
+https://cdn1.discoveryftp.net/Movies/Bangla/2009/Hanshi%20Khushi%20Club/Hanshi%20Khushi%20Club%202009%201080p%20AMZN%20WEB-DL%20HEVC%20DDP%202.0-Top10Torrent.Site.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/taGMTCdNolrsp3ovlce2Nz6gQUh.jpg",জোর
+https://cdn1.discoveryftp.net/Movies/Bangla/2009/Jor/Bangla%20Movie%202015%20Full%20Movie%20-%20Jor%20Bengali%20Full%20Movie.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y12fgOVwzOJdnFM1zB4TR2n97UK.jpg",পরান যায় জ্বলিয়া রে
+http://ftp.timepassbd.live/timepassbd-data/ftp2/BANGLA_MOVIES/2005-2009/Paran%20Jai%20Jaliya%20Re%20%282009%29/Paran%20Jai%20Jaliya%20Re%20%282009%29%20Dvd%20Rip%20x264%20-%20Ttnbangla.mpg
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xvndvUjkEpVfXUcwRQ90DQpTWkl.jpg",নীল আকাশের চাঁদনি
+https://cdn1.discoveryftp.net/Movies/Bangla/2009/Nil%20Akasher%20Chadni/Neel%20Akasher%20Chadni%20(2009)%20RarbgHD.Lol-Bengali%20WEB-DL%201080p.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67322LUK6jKDafJ2XLGeJwCfIFR.jpg",জোশ
+https://cdn1.discoveryftp.net/Movies/Bangla/2010/Josh/Josh_2010_WEBDL_MLSBD.CO_1920x1080_8e1cad9d83775bd7.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/18x58WzI2b48HKtpZ9ysyXdam9b.jpg",লে ছক্কা
+https://cdn1.discoveryftp.net/Movies/Bangla/2010/Le%20Chakka/Le%20Chakka%20(2010)%20Bengali%20JC%20WEB-DL%20AAC%202.0%20H264%201080p%202.1GB.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qAMCfp4p2UYAtji2c87TbiA3ce7.jpg",মন যে করে উড়ু উড়ু
+https://cdn1.discoveryftp.net/Movies/Bangla/2010/Mon%20Je%20Kore%20Uru%20Uru/Mon%20Je%20Kore%20Uru%20Uru-ftpbd.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2rhgO6xTQabmri4coca1LlduwGX.jpg",সেদিন দেখা হয়েছিলো
+https://cdn1.discoveryftp.net/Movies/Bangla/2010/Sedin%20Dekha%20Hoyechilo/Sedin%20Dekha%20Hoyechilo%202010.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dSR3XhunuGXx8xjsz0b2X4L7fBW.jpg",ওয়ান্টেড
+https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282010%29/Wanted-%282010%29-1080p-WEB-DL/Wanted%282010%29%20Bengali%201080p-WEB-DL_reencoded.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bcAW4G3NQFfiOkZToacRHDWofOF.jpg",বলো না তুমি আমার
+http://ftp.timepassbd.live/timepassbd-data/ftp2/BANGLA_MOVIES/2010/Bolo%20Na%20Tumi%20Amar%20%282010%29/Bolo%20Na%20Tumi%20Aamar%20%282010%29%20720p%20Dvd%20Rip%20AAC%20x264%20-%20www.come2speed.com.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7HdVLL55JQtMPbuf4zfuPMaBhYy.jpg",দুই পৃথিবী
+http://ftp.timepassbd.live/timepassbd-data/ftp2/BANGLA_MOVIES/2010/Dui%20Prithibi%20%282010%29/Dui%20Prithibi%20%282010%29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oiOJZVQOl9upakEJf1K9bVETFQy.jpg",ফাইটার
+https://cdn1.discoveryftp.net/Movies/Bangla/2011/Fighter/Fighter%202011Bengali%201080P%20AMZN%20WEBRIP%20DDP%202.0%20H265%20HEVC%20ESUB%20-%20[Hasan].mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/laIVikhjS0bgltMbzWL1GdtFYDK.jpg",হ্যালো মেমসাহেব
+https://cdn1.discoveryftp.net/Movies/Bangla/2011/Hello%20Memsaheb/Hello.Memsaheb.WEB.DL_1920x1080_MLSBD.CO+3f43929fdacdc66c.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/boZ5hExqLgoRpXEYJJZxqCDZ2w1.jpg",পাগলু
+http://ftp.timepassbd.live/timepassbd-data/ftp2/BANGLA_MOVIES/2011/Paglu%20%282011%29/Paglu%20%282011%29%20.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5W2ZzFUVFPak5EfZfC6pg5AwQpR.png",রোমিও
+https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282011%29/Romeo-%282011%29-1080p-WEB-DL/Romeo%20%282011%29%20Bengali%201080P-_converted_reencoded.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yjPoWKN8mooDKlF1HrRdDtGojq.jpg",১০০% লাভ
+http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282012%29/100%25%20Love%20%282012%29%20HD/100%25%20Love%20%282012%29%20720p%20DvDRip%20x264%20ACC%205.1Ch%20%5BDoridro.com%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8lg1zLW9J5UmplHK6kd2inuZrp9.jpg",আওয়ারা
+https://cdn1.discoveryftp.net/Movies/Bangla/2012/Awara/Awara%202012%20[Bengali]%20Untouched%201080p%20WEB-DL.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/59/%E0%A6%AC%E0%A7%8B%E0%A6%9D%E0%A7%87%E0%A6%A8%E0%A6%BE_%E0%A6%B8%E0%A7%87_%E0%A6%AC%E0%A7%8B%E0%A6%9D%E0%A7%87%E0%A6%A8%E0%A6%BE.jpg",বোঝেনা সে বোঝেনা
+https://cdn1.discoveryftp.net/Movies/Bangla/2012/Bojhena%20Shey%20Bojhena/Bojhena%20Shey%20Bojhena%20(2012)%20Bengali%20JHS%20WEB-DL%201080p.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qcibbeYkmMZishLMPujyE285lHJ.jpg",চ্যালেঞ্জ ২
+https://cdn1.discoveryftp.net/Movies/Bangla/2012/Challenge%202/Challenge%202%202012%20HoiChoi%20Bengali%20Movie%201080p%20WEBDL%20AVC%20AAC%20REO.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z7uRzWuThh60lCA1vFTS8Fe2d40.jpg",ইডিয়ট
+https://cdn1.discoveryftp.net/Movies/Bangla/2012/Idiot/Idiot%20(2012)%20720p%20Ankush%20&%20Srabonti%20-%20Kolkata%20Bangla%20Movie.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/65pMJbRxbcVoJNwQx8S9oC7SeKk.jpg",খোকাবাবু
+https://cdn1.discoveryftp.net/Movies/Bangla/2012/Khokababu/Khokababu%20(2012).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kVGY2nDS7qpgNU3SjFEmV1LV2Xs.jpg",দিওয়ানা
+http://ftp.timepassbd.live/timepassbd-data/ftp2/BANGLA_MOVIES/2013/Deewana%20%282013%29/Deewana.2013.1080p.Hoichoi%20WEB-DL.H264.AAC-TimepassBD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lDrEIaeeEJsOb00rmlpcyIv4QOR.jpg",চাঁদের পাহাড়
+https://cdn1.discoveryftp.net/Movies/Bangla/2013/Chander%20Pahar/Chander%20Pahar%202013.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8jeweQcnxdH4c39y13feHpDUTIw.jpg",খোকা ৪২০
+https://cdn1.discoveryftp.net/Movies/Bangla/2013/Khoka%20420/Khoka%20420%20(2013)%20HD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kr6VqAEeVDzLSHkstdkQoGIWvq5.jpg",মজনু
+https://cdn1.discoveryftp.net/Movies/Bangla/2013/Majnu/Majnu%20Bangali%20Full%20Movie%20Srabanti%20Hiran%20(2013)%201080p%20WEBHD.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/28W7ARLYXWlBFbQAKwEKgNzAZSF.png",রংবাজ
+https://pcdn1.discoveryftp.net/Rangbaaz%20(2013)%20Bengali%20JHS%20WEB-DL%201080p.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lkhv2Pr3kB4oTopCN7qnbUIIcX4.png",বিন্দাস
+https://cdn1.discoveryftp.net/Movies/Bangla/2014/Bindaas/Bindaas%202014%201080p.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vhKnw3em5SlT9OPt9D5cGLB82gV.jpg",বরবাদ
+https://pcdn1.discoveryftp.net/Borbaad_1920x808_MLSBD.CO+e4b65de5b5ab6eec.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qG73G233xR9g8a4gGt9BSpeKzLi.jpg",গেম
+https://cdn1.discoveryftp.net/Movies/Bangla/2014/Game/Game.He.Plays.to.Win.2014.AMZN.WEB-DL_w720_MLSBD.CO.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g2Q0CPwL1wnh45qReLK1anqpKnM.jpg",যোদ্ধা
+https://cdn1.discoveryftp.net/Movies/Bangla/2014/Yoddha/Yoddha.2014.1080p.WEB-DL.AVC.AAC.Torr3ntHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/31POpShG3nvbGqEvaLctjD6FrQm.png",বেশ করেছি প্রেম করেছি
+https://cdn1.discoveryftp.net/Movies/Bangla/2015/Besh%20Korechi%20Prem%20Korechi/Besh%20Korechi%20Prem%20Korechi%202015%201080p%20Untouched%20WEBHD%20AVC%20AAC%20ESub%20-%20YouTube.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t4orqZobZ9dKLtKJ0Epcmm3NtHg.jpg",হিরোগিরি
+https://cdn1.discoveryftp.net/Movies/Bangla/2015/Hero%20Giri/Herogiri%202015%20[Bengali]%20Untouched%201080p%20WEB-DL%20x264%20AAC%20-%20Hon3yHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/leYBbK0u6MsxZMtvniAguAE4nMm.jpg",জামাই ৪২০
+https://cdn1.discoveryftp.net/Movies/Bangla/2015/Jamai%20420/Jamai.420.2015.Bengali.1080p.WebHD.AVC.AAC-M2Tv.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1WJl1ZBg51hBx5UA39vrC39F7Ft.jpg",পারবোনা আমি ছাড়তে তোকে
+https://cdn1.discoveryftp.net/Movies/Bangla/2015/Parbona%20Ami%20Chartey%20Toke/Parbona%20Ami%20Charte%20Toke%20Kolkata%20Bangla%20Full%20Movie%201080p%20HD.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/45wN6GiS6Y2vp8aDNXI8lLdqJMR.jpg",রোমিও বনাম জুলিয়েট
+https://cdn1.discoveryftp.net/Movies/Bangla/2015/Romeo%20Vs%20Juliet/Romeo.vs.Juliet_w1080_MLSBD.CO+c79dcc224c9a5b59.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nzLM92nRjRA5N2wT3eSJ8YYWdUv.jpg",শুধু তোমারই জন্য
+https://cdn1.discoveryftp.net/Movies/Bangla/2015/Shudhu%20Tomari%20Jonno/Shudhu%20Tomari%20Jonya%202015%20[Bengali]%20Untouched%201080p%20WEB-DL%20x264%20AAC-%20Hon3yHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/57WMyv92x1BZSl2T09K8a0vnL7y.jpg",অভিমান
+https://cdn1.discoveryftp.net/Movies/Bangla/2016/Abhimaan/Abhimaan%202016%20Bengali%201080p%20WEB-DL%20AAC%20x264%20-%20Top10Torrent.Site.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rOV9grUlQB5IxMmo9HISEj2gVS7.jpg",গ্যাংস্টার
+https://cdn1.discoveryftp.net/Movies/Bangla/2016/Gangster/Gangster%20(2016)%20-%20720p%20-%20HDRip%20-%20x264%20-%20AC3%20[DDR].mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uXiMdcB9NfmyVkeGpDSu7XGMCZu.jpg",হিরো ৪২০
+https://cdn1.discoveryftp.net/Movies/Bangla/2016/Hero%20420/Hero%20420%20(2016)%20Bengali%20WEB-DL%20-%201080P%20-.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wfKBYvCbERP1FMYIzvJYUuJhXcH.jpg",কেলোর কীর্তি
+https://cdn1.discoveryftp.net/Movies/Bangla/2016/Kelor%20Kirti/Kelor%20Kirti%202016%20Bengali%201080P%20WEBRiP%20x265%20HEVC%20AAC%202.0%20[shadow].mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9wnWt5O1DVmGuhVthBNcyBYupTX.jpg",কি করে তোকে বলবো
+https://cdn1.discoveryftp.net/Movies/Bangla/2016/Ki%20Kore%20Toke%20Bolbo/Ki%20Kore%20Toke%20Bolbo%20%20(2016)%20[Bengali]%20720p%20-%20HDRip%20-%20x264%20-%20AAC.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oLPSqFVXQBe7Jq2l8fWLhLqMrzh.jpg",লাভ এক্সপ্রেস
+http://ftp.timepassbd.live/timepassbd-data/ftp2/BANGLA_MOVIES/2016/Love%20Express%20%282016%29/Love%20Express%20%282016%29%201080p%20WEB-DL%20x264%20AAC%20-%20www.come2speed.com.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tzFBw4Q5Qpk90yfE3B2OUXFA741.jpg",পাওয়ার
+http://ftp.timepassbd.live/timepassbd-data/ftp2/BANGLA_MOVIES/2016/Power%20%282016%29/Power%202016%20%5BBengali%5D%20Untouched%201080p%20WEB-DL%20x264%20AAC%20-%20Hon3yHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7qaMSYxVNiBZlbb0ihO6gHpLvlc.jpg",শিকারী
+https://cdn1.discoveryftp.net/Movies/Bangla/2016/Shikari/Shikari%20%202016%20[BENGALI]%201080p%20WEB-DL%20[HEVC]%20AAC%20x265%20-%20MAXXHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/WVBdGu4wqBMShm9Gt5b4sxZsDY.jpg",বস
+http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282013%29/Boss%20%282013%29%20720p%20DVDRip/Boss%20%282013%29%20720p%20DVDRip%205.1CH%202.45GB%20MKV.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/WVBdGu4wqBMShm9Gt5b4sxZsDY.jpg",বস ২
+https://cdn1.discoveryftp.net/Movies/Bangla/2017/Boss%202/BOSS%202%202017%20Bengali%201080p%20AMZN%20WEBRip%20DDP2.0%20H265%20HEVC%20ESub-Top10Torrent.xyz.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rjAIcv2RU2KkYbi1Fw9WPLpgqCR.png",চ্যাম্প
+https://cdn1.discoveryftp.net/Movies/Bangla/2017/Chaamp/Champ%20(2017)%20Bengali%20720p%20HDTVRip%20x264%20AC3%205.1.man.mkv
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/en/d/d8/Dekh_Kemon_LagePos.jpg?_x_tr_sl=en&_x_tr_tl=bn&_x_tr_hl=bn&_x_tr_pto=tc",দেখ কেমন লাগে
+https://cdn1.discoveryftp.net/Movies/Bangla/2017/Dekh%20Kemon%20Lage/Dekh%20Kemon%20Lage%202017%20Bengali%201080P%20ZEE5%20WEBRiP%20x265%20HEVC%20AAC%202.0%20[shadow].mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9XSCOyTZ3g0qo0LVCkcxxzT8JwT.jpg",ঢাকা অ্যাটাক
+https://cdn1.discoveryftp.net/Movies/Bangla/2017/Dhaka%20Attack/Dhaka%20Attack%20(2017)%201080p%20WEBHD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x5AXmKSh7oAFyjwxpHz8sJC8iBd.jpg",ধ্যাততেরিকি
+http://ftp.timepassbd.live/timepassbd-data/ftp2/BANGLA_MOVIES/2017/Dhat%20Teri%20Ki%20%282017%29/Dhatteriki.2017.1080p.WEB-DL.AAC.x264-TimepassBD.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nafpbKIN0dZbEKXb4wYfxbtHdZx.jpg",জিও পাগলা
+https://cdn1.discoveryftp.net/Movies/Bangla/2017/Jio%20Pagla/Jio%20Pagla%202017%20[Bengali]%201080p%20WEB-DL%20x264%20AAC%20ESub.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Swatta_Movie_Poster.jpg",সত্তা
+https://cdn1.discoveryftp.net/Movies/Bangla/2017/Swatta/Satta%20(2017)%20720p%20CAMRip.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/htROqNasnMiM1vZAl0IcH2VIdFH.jpg",ফিদা
+https://cdn1.discoveryftp.net/Movies/Bangla/2018/Fidaa/Fidaa%202018%20Bengali%201080P%20Amzn%20WEBRiP%20x265%20DD%205.1%20HEVC%20ESUB%20[shadow].mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pLD0plMIy455OQYICoRg2QbuyVy.jpg",গার্লফ্রেন্ড
+https://cdn1.discoveryftp.net/Movies/Bangla/2018/Girlfriend/Girlfriend%20(2018)%20Bengali%20720p%20HDRip%20x264%20AAC.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dyZ6SSV8F7yQxEiYCk2QSgzLIXI.jpg",হামি
+https://cdn1.discoveryftp.net/Movies/Bangla/2018/Haami/Haami%20(2018)%20Bengali%20Movie%20Original%20HDRip%20x264%20720p%20AAC.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eUGrP6OLTWrWz2UI4DmUZAtABXU.jpg",রাজা রানী রাজি
+https://cdn1.discoveryftp.net/Movies/Bangla/2018/Raja%20Rani%20Raji/Raja%20Rani%20Raji%20(2018)%20Bengali%201080p%20BLURAY%20HDrip%20AAC%20-%201.8GB%20-%20BY=KAYL1337.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/b79nHXayMXmxRVh4QWo0DsTuY0j.png",টোটাল দাদাগিরি
+https://cdn1.discoveryftp.net/Movies/Bangla/2018/Total%20Dadagiri/Total%20Dadagiri%20(2018)%20Bengali%20720p%20Untouched%20WEBHD%20x264%20AAC%20[MovCr].mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vctnUfpmlDxsVzboNA3QoWjIWXI.jpg",ভিলেন
+https://cdn1.discoveryftp.net/Movies/Bangla/2018/Villain/Villain.(2018).1080p.AMZN.WEB-DL.Bengali.DDP2.0.HEVC-themoviesboss.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vvl0tM6T2BXzw7JNPQ3vmuQDtpK.jpg",ভোকাট্টা
+https://cdn1.discoveryftp.net/Movies/Bangla/2019/Bhokatta/Bhokatta%20(2019)%20720p%20HDRip.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Total_Dadagiri_Poster.jpg",টোটাল দাদাগীরি
+http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282018%29/Total%20Dadagiri%20%282018%29%20720p/Total%20Dadagiri%20%282018%29%20720p%20UntoucheD%20WEB%20HD%20-%20AVC%20-%20AAC%20-%20E-Subs%20-%20DTOne.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/weQPPZ9PgiN5RM3HkOWhxujqaCe.jpg",সুলতান
+http://ftp.timepassbd.live/timepassbd-data/ftp2/BANGLA_MOVIES/2018/Sultan%3A%20The%20Saviour%20%282018%29/Sultan%20The%20Saviour%20%282018%29%201080p%20WEB-DL%20H264%20AAC_LillMASTER.mkv
+
+########## ðŸŽ¬ BANGLA MOVIE PLAYLIST - Updated ##########
+
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/56f831ff-11a4-4067-b6f7-f8e93f2c2182.jpg" group-title="Kolkata Movie", Idiot (2012)
+https://pixeldrain.dev/api/file/rfxHk7UK?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/77ace688-2c7e-49dd-8c58-14655d07b839.jpg" group-title="Bangladesh Movie", Bir (2020)
+https://pub-f70b93eb152c43e8a3d557615ee594af.r2.dev/f37546c6ac372f4f5b4f6086b90630a3/BIR%20%282020%29%20Bangla%20WEB-DL.480P.350MB.%5BMovieLinkBD.com%5D.mkv
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d01db6bd-b2fd-40b0-a014-725278ed8fb9.jpg" group-title="Bangladesh Movie", Toofan (2024)
+https://pixeldrain.dev/api/file/nFg5xu3L?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/562a091a-c410-4da4-ab97-f51ce10710d2.jpg" group-title="Bangla Dubbed Movie", Adithya Varma (2023)
+https://pixeldrain.dev/api/file/RBXxfnmn?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/8ace13e6-d943-426f-a638-3377ad6b1f15.jpg" group-title="Bangla Dubbed Movie", Hero-Super Hero (2025)
+https://pixeldrain.dev/api/file/FeKKSDV7?download
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Badland_Hunters_Dubbed" tvg-logo="https://image.tmdb.org/t/p/original/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg",Badland Hunters Dubbed (2024)
+https://pixeldra.in/api/file/GA46iMCu?download
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Tofan" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/abcq7WjoFx4WGU0HLcuOytpkLFG.jpg",Tofan (2024)
+https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Mone_Rekho" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDliMWMxMGMtNjllMy00MWI2LTg3ODctYTliYjczNmNmMDc3XkEyXkFqcGc@._V1_.jpg",Mone Rekho (2018)
+https://dl.dropboxusercontent.com/scl/fi/pptiayf3rd0hmehtisbsj/MLSBD.Shop-Mone-Rekho-2019-RarbgHD.Live-Bengali-720p.mkv?rlkey=guyio0qa1ardgoxqc5nolmki1&dl=1.mkv
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Parbona_Ami_Chartey_Tokey" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1WJl1ZBg51hBx5UA39vrC39F7Ft.jpg",Parbona Ami Chartey Tokey (2015)
+https://dl.dropboxusercontent.com/scl/fi/u1tqqxvlnbm9brkdgahui/Parbo.Na.Aami.Chartey.Toke.2017.720p.AMZN.WebRip.AAC2.0.H.264-MovieLinkBD.mkv?rlkey=7b7bs70bhivbglli2yivc29mp&dl=1.mkv
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Amazon_Obhijaan" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Ir8Fw9VI9j1dcMbdBiwSY8wubz.jpg",Amazon Obhijaan (2009)
+https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazon.Obhijaan.2017.720p.mkv?rlkey=teexwav1olvy172f87mnf2j35&dl=1.mkv
+#EXTINF:-1 group-title="Movies - Hindi" tvg-id="Pippa" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7bD664CWGigcjlT8wf2VR3KZCtK.jpg",Pippa (2023)
+https://wh1168170.ispot.cc/Pippa.mkv
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1e20dcbe-4348-4129-9eda-5e9ef5f6d2dd.jpg" group-title="Bangla Dubbed Movie", Atithi Devobhava-Monophobia (2025)
+https://pixeldrain.dev/api/file/6cJjdoWz?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f40490e9-a6c8-4d83-9611-6790be9ad6e3.jpg" group-title="Bangla Dubbed Movie", My Brother (2025)
+https://pixeldrain.dev/api/file/ApNa6aVi?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1cd49e58-8e41-4f02-adeb-d347e6452f29.jpg" group-title="Bangla Dubbed Movie", Varudu Kaavalenu-Life Partner (2025)
+https://pixeldrain.dev/api/file/9wQUL9vy?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/44fccbc2-edad-486c-944a-becbf4a300a9.jpg" group-title="Bangla Dubbed Movie", Check-Checkmate (2024)
+https://pixeldrain.dev/api/file/e9TPdTfg?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/254c93fb-afa2-4289-adf6-d747016f82d5.jpg" group-title="Bangla Dubbed Movie", Shatamanam Bhavathi-Poribar (2024)
+https://pixeldrain.dev/api/file/jn31jKug?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/383b0484-b82c-454a-9de4-3bbfb7a7068e.jpg" group-title="Bangla Dubbed Movie", Chal Mohan Ranga-Dur Porobashe (2024)
+https://pixeldrain.dev/api/file/moXwP8P4?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a679ad3c-530e-4f7d-beb8-d16ec1bb74a6.jpg" group-title="Bangla Dubbed Movie", A Aa-Premi (2024)
+https://pixeldrain.dev/api/file/5wqjLpbf?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/cb68e415-8dbb-4d4c-b9aa-892b8a1d5958.jpg" group-title="Kolkata Movie", 100% Love (2012)
+https://pixeldrain.dev/api/file/J7qsTxSg?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/31532a9d-77f5-49fd-ac0f-6788e29f1b05.jpg" group-title="Kolkata Movie", Manush Amanush (2002)
+https://pixeldrain.dev/api/file/a1SA2Ko5?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e895e031-e838-408e-be34-2432fde3ef17.jpg" group-title="Bangladesh Movie", Daagi (2025)
+https://pixeldrain.dev/api/file/zUkvKJPm?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c4ec1206-2451-4b20-b7bc-e1de853baede.jpg" group-title="Bangla Dubbed Movie", Kotigobba 2-Ekai Eksho (2023)
+https://pixeldrain.dev/api/file/dGX6qRjE?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3600608f-a908-436b-a375-3ac4ff290f95.jpg" group-title="Kolkata Movie", Mon Je Kore Uru Uru (2010)
+https://pixeldrain.dev/api/file/T38MMVh6?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e65ed380-1541-4fba-95c9-c97c16b5a5cd.jpg" group-title="Kolkata Movie", Bajimaat (2008)
+https://pixeldrain.dev/api/file/CjQzvLpb?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e25616a6-d6cc-4e8e-a825-e5a00e9bee1a.jpg" group-title="Kolkata Movie", Minister Fatakesto (2007)
+https://pixeldrain.dev/api/file/qN6tYtrA?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d63c2ae4-6c4b-40cf-8b1f-988b3e1a1b71.jpg" group-title="Kolkata Movie", Tumi Ashbe Bole (2021)
+https://pixeldrain.dev/api/file/mpXrHUzd?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7db6e07f-c5fd-4730-91eb-4a3b91509181.jpg" group-title="Kolkata Movie", Borbaad (2014)
+https://pixeldrain.dev/api/file/1556XuHp?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7b6071be-2499-43aa-800d-b399660b4aa6.jpg" group-title="Kolkata Movie", Raja Rani Raji (2018)
+https://pixeldrain.dev/api/file/p6njrMxe?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ec34af08-5a39-4eab-b3e2-92863bd1635f.jpg" group-title="Kolkata Movie", Love Story (2020)
+https://pixeldrain.dev/api/file/XbcDafNn?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/03a0dcda-a267-4812-b806-61a406dec4d2.jpg" group-title="Kolkata Movie", Projapati (2022)
+https://pixeldrain.dev/api/file/pdg26DDJ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3ed62586-b126-4e9d-85ba-a0d4c0d01368.jpg" group-title="Kolkata Movie", Hirokgorer Hire (2022)
+https://pixeldrain.dev/api/file/KmymQqBp?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b861546b-5660-45ca-90b7-cf4b55e1b26a.jpg" group-title="Bangla Dubbed Movie", Maama Maschindra-Revenge Game (2025)
+https://pixeldrain.dev/api/file/swprWfuX?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/aa8f0afa-b1e7-4c01-93cd-6ee30a5b48c9.jpg" group-title="Bangla Dubbed Movie", Sinam-Kalprit (2025)
+https://pixeldrain.dev/api/file/rxgZ8r5Q?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c867865e-c8e5-40a5-aed7-8255279e6148.jpg" group-title="Bangla Dubbed Movie", Majili-Dorodia (2025)
+https://pixeldrain.dev/api/file/HdzhqG3z?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/07d1b196-588d-4290-93b4-e3246010a98b.jpg" group-title="Bangla Dubbed Movie", Venom (2018)
+https://pixeldrain.dev/api/file/7ZdnopmF?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/40c01840-a259-4ff8-bbe6-64c44e4dc747.jpg" group-title="Bangla Dubbed Movie", 100 Days of Love (2024)
+https://pixeldrain.dev/api/file/n4TY2Y4g?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/12759989-6c36-4205-a918-dac22ea4305b.jpg" group-title="Bollywood Movie", 12th Fail (2023)
+https://pixeldrain.dev/api/file/o3FgypL1?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/330dba33-7d43-4f31-a884-069065e7ffa3.jpg" group-title="South Movie", Acharya (2022)
+https://pixeldrain.dev/api/file/eModgYSy?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ed20b7e3-0c2d-4ca2-86aa-350078fbe44a.jpg" group-title="Bangla Web", 840 (2024)
+https://pixeldrain.dev/api/file/sgBPKPSK?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c3b97ea2-0fa0-4970-9bf7-83ca7d082764.jpg" group-title="Bangladesh Movie", Potu (2025)
+https://pixeldrain.dev/api/file/KJTXrDKF?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/922131dd-13a3-4e13-bc15-d7bd94e9b896.jpg" group-title="Kolkata Movie", Bhoy (2023)
+https://pixeldrain.dev/api/file/oLiXrFg3?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/93531cb8-d059-4388-a5ff-ee4fcbcacef7.jpg" group-title="Kolkata Movie", Arshinagar (2015)
+https://pixeldrain.dev/api/file/nJKPxjm8?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7488a730-e211-4b5b-8c83-e6998ad01df7.jpg" group-title="Kolkata Movie", Honeymoon (2018)
+https://pixeldrain.dev/api/file/FYH33jwC?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/5f5ad748-0914-4f2e-b3a8-eb2606c17efd.jpg" group-title="Kolkata Movie", Fidaa (2018)
+https://pixeldrain.dev/api/file/HmvCc9Wg?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b8a406eb-b1c9-48c7-9a56-e510f3a99d46.jpg" group-title="Kolkata Movie", Haripada Bandwala (2016)
+https://pixeldrain.dev/api/file/USVyQxYy?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/23c431e2-9c3e-4cc5-a815-2c420e357133.jpg" group-title="Kolkata Movie", Angshuman MBA (2023)
+https://pixeldrain.dev/api/file/qNjV51zh?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e1ad11bc-d707-4502-a408-f416047812e4.jpg" group-title="Kolkata Movie", Bagh Bandi Khela (2018)
+https://pixeldrain.dev/api/file/GTGqtb3G?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f462df37-a6ea-41d2-a1b1-942f8a38ee83.jpg" group-title="Bangladesh Movie", Password (2019)
+https://pixeldrain.dev/api/file/rWDG22ed?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/382390ff-598e-4d49-b83f-0da27e5b66c7.jpg" group-title="Kolkata Movie", Kolkatar Harry (2022)
+https://pixeldrain.dev/api/file/9m89GQZ9?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/61253853-405c-41d5-8f10-ef16d4235f12.jpg" group-title="Kolkata Movie", Santrash (2003)
+https://pixeldrain.dev/api/file/TrQN44bd?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/59bf5ad0-6072-4945-a687-61df37f86069.jpg" group-title="Kolkata Movie", Aakrosh (2004)
+https://pixeldrain.dev/api/file/EZDVTmVC?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b69ea549-43f8-49ed-943f-9a562d0b131a.jpg" group-title="Kolkata Movie", Guru (2003)
+https://pixeldrain.dev/api/file/Do9hrnij?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/45757f84-6060-4356-bca5-820dc55a8da2.jpg" group-title="Kolkata Movie", Arundhati (2014)
+https://pixeldrain.dev/api/file/yqv196vn?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7a3aa503-cf9c-4112-902f-837e2320a02e.jpg" group-title="Kolkata Movie", Abhimanyu (2006)
+https://pixeldrain.dev/api/file/TABr9A23?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/960f20a9-66ed-4add-a7c6-dbe3167dc08b.jpg" group-title="Kolkata Movie", Barood (2004)
+https://pixeldrain.dev/api/file/WhhVMD24?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1ee3de3d-312e-408b-a303-922fc284b71b.jpg" group-title="Kolkata Movie", Deva (2002)
+https://pixeldrain.dev/api/file/y9aor1jf?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/17f8096c-69da-4b70-9fad-95392632c37b.jpg" group-title="Kolkata Movie", Loveria (2013)
+https://pixeldrain.dev/api/file/P9mpeG87?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f5aa03ca-f0ba-4f6f-816b-574158697d18.jpg" group-title="Kolkata Movie", Sentimentaaal (2024)
+https://pixeldrain.dev/api/file/dVHRaVYG?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/31f3da4d-3ff5-4e77-b7dd-c864fb1842a5.jpg" group-title="Kolkata Movie", Ghare & Baire (2018)
+https://pixeldrain.dev/api/file/QuwhM4X8?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0e1859b7-0bba-4f5c-ab77-696b3b3612d0.jpg" group-title="Kolkata Movie", Rocky (2013)
+https://pixeldrain.dev/api/file/gb71XiRB?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/35619be8-4cf0-4d1d-ab49-491fa369d4ac.jpg" group-title="Kolkata Movie", Googly (2019)
+https://pixeldrain.dev/api/file/pbyY1mx9?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e20254bc-095f-4850-9cca-7bafc3044911.jpg" group-title="Kolkata Movie", Love Marriage (2023)
+https://pixeldrain.dev/api/file/CMKfXeL8?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/265bf9db-ab3f-42d9-96e6-716ca62b1dc3.jpg" group-title="Kolkata Movie", Paran Jai Jaliya Re (2009)
+https://pixeldrain.dev/api/file/grcxmPpo?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/424d0927-d31c-41e0-a6e7-ffb90533673f.jpg" group-title="Kolkata Movie", 17th September (2019)
+https://pixeldrain.dev/api/file/8Zouz55g?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/538c08d1-5482-4f1f-96f5-2081d49e7552.jpg" group-title="Kolkata Movie", Magic (2021)
+https://pixeldrain.dev/api/file/BkEzMMQH?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fd019baa-457b-40d4-b9ba-42a73d9a842b.jpg" group-title="Kolkata Movie", Jamai 420 (2015)
+https://pixeldrain.dev/api/file/MZEjXc4P?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/8f481921-99fc-44d5-a2a9-e01c8a675820.jpg" group-title="Kolkata Movie", Kellafate (2010)
+https://pixeldrain.dev/api/file/x4Yg4FyF?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/954392f6-c743-4bed-9574-9371ca4fee43.jpg" group-title="Kolkata Movie", Tenida And Company (2023)
+https://pixeldrain.dev/api/file/wzWK5ta1?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/877cbe91-7347-418b-abe0-669486c09a93.jpg" group-title="Kolkata Movie", Kabuliwala (2023)
+https://pixeldrain.dev/api/file/72HfuvPd?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/92cbf646-6093-403c-a3b6-57d914a38d76.jpg" group-title="Kolkata Movie", Rehmat Ali (2010)
+https://pixeldrain.dev/api/file/khauWnNG?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d0bf3de3-f934-4d5f-aaf2-13cbd5243e49.jpg" group-title="Kolkata Movie", Mon Jane Na (2019)
+https://pixeldrain.dev/api/file/qan5M4EK?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/342c34fb-4fed-435a-84c9-22702c475237.jpg" group-title="Kolkata Movie", Khoka 420 (2013)
+https://pixeldrain.dev/api/file/zo8GRi3G?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7203b91f-a2cf-4c3c-9ffa-aab371a5bd98.jpg" group-title="Kolkata Movie", Hullor (2020)
+https://pixeldrain.dev/api/file/emtSsstp?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fc8c3c7a-bbc2-4a33-9c03-22a4389335e7.jpg" group-title="Kolkata Movie", Bagha Jatin (2023)
+https://pixeldrain.dev/api/file/tmfPPuv7?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e5508601-26fc-445d-9991-957248aa8e9c.jpg" group-title="Kolkata Movie", Cholo Paltai (2011)
+https://pixeldrain.dev/api/file/Q8Bw5uz4?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/cc1df02d-ad90-4f34-8826-c458e0c17886.jpg" group-title="Kolkata Movie", Jatugriha (2022)
+https://pixeldrain.dev/api/file/1sj4uyMU?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/71eb9ddd-89cb-4926-b713-a04f428dccee.jpg" group-title="Kolkata Movie", Jai Kali Kalkattawali (2023)
+https://pixeldrain.dev/api/file/fxzSM4bJ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/52550835-7eb0-4283-9c6a-2116ea8231c5.jpg" group-title="Kolkata Movie", Har Mana Har (2022)
+https://pixeldrain.dev/api/file/q65foNS7?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f701739a-5b6b-411d-a6ad-61bd86a6b2ad.jpg" group-title="Kolkata Movie", Biye.Com (2020)
+https://pixeldrain.dev/api/file/kpGysR8E?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/69ecf106-e64d-4936-83f7-1b4ffb5b9980.jpg" group-title="Kolkata Movie", Gumnaami (2019)
+https://pixeldrain.dev/api/file/vWXUfJtj?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e211d33e-181b-4155-9ac1-e3dddf8569a3.jpg" group-title="Kolkata Movie", Parbona Ami Chartey Tokey (2015)
+https://pixeldrain.dev/api/file/j7ZdeDcF?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c98e2460-d79e-4b83-928f-e7deb7e95306.jpg" group-title="Kolkata Movie", Nabab Nandini (2007)
+https://pixeldrain.dev/api/file/cBmfsvgs?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6b704fe5-c0c3-4ae2-a7da-d79084f6a422.jpg" group-title="Kolkata Movie", Saat Pake Bandha (2009)
+https://pixeldrain.dev/api/file/16JhcawY?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3c22fada-66c9-429c-a9a1-c3b9869964ac.jpg" group-title="Kolkata Movie", Shesh Theke Shuru (2019)
+https://pixeldrain.dev/api/file/fa1Ca9qW?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3b613dd2-42cd-4688-80a9-45d3cf008d9f.jpg" group-title="Kolkata Movie", Sob Koro Prem Koro Na (2023)
+https://pixeldrain.dev/api/file/jWNLZMgw?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/690b9e9c-f3ee-4353-a786-c75e8f310f1a.jpg" group-title="Kolkata Movie", Kishmish (2022)
+https://pixeldrain.dev/api/file/rwgHVBj7?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0134eec4-0198-46dc-bd28-bbf0c775b12d.jpg" group-title="Kolkata Movie", Satrur Muqubila (2002)
+https://pixeldrain.dev/api/file/dfyATTKa?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3d43680b-8a6e-4c8e-925a-4dbb8b37784e.jpg" group-title="Kolkata Movie", Chaamp (2017)
+https://pixeldrain.dev/api/file/GT7e7ifC?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a4542a76-ae37-4ab6-a1d8-f0bac25bb0b0.jpg" group-title="Kolkata Movie", Challenge (2009)
+https://pixeldrain.dev/api/file/ZY4NK4bC?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6124be81-9b9b-4925-a7a4-cfecb8c2f8fe.jpg" group-title="Kolkata Movie", Challenge 2 (2012)
+https://pixeldrain.dev/api/file/7VKCUuaL?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3c217668-29c6-4228-85ac-68c2cf50294a.jpg" group-title="Kolkata Movie", Amar Aponjon (2017)
+https://pixeldrain.dev/api/file/eH7xmj2X?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/41b21053-68bf-4890-b8f0-c83fb45e4088.jpg" group-title="Kolkata Movie", Jamai Badal (2019)
+https://pixeldrain.dev/api/file/nwLzJTRp?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/775b479e-c48d-48c3-87b7-0cc4a0fe8a25.jpg" group-title="Kolkata Movie", Jyeshthoputro (2019)
+https://pixeldrain.dev/api/file/MfNmsPHJ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0da86b67-a353-4ea3-9bc1-0706fecf538d.jpg" group-title="Kolkata Movie", Kacher Manush (2022)
+https://pixeldrain.dev/api/file/NziruCRi?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/27f269fb-94f4-4a3f-aee1-62ddbf6b33f5.jpg" group-title="Kolkata Movie", Tekka (2024)
+https://pixeldrain.dev/api/file/ipALV9WG?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e8075ba3-e340-43f1-abea-ed2bf866eafe.jpg" group-title="Kolkata Movie", Hoichoi Unlimited (2018)
+https://pixeldrain.dev/api/file/QtWdH7RC?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/9344df6a-a6e5-4e15-9c91-d14efbb4e813.jpg" group-title="Kolkata Movie", I Love You (2007)
 https://pixeldrain.dev/api/file/XVD4HzUa?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/3ce6d213-1206-44b5-bb20-b6bb957e80c9.jpg" group-title="Bangla Movie", Premer Kahini (2008)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3ce6d213-1206-44b5-bb20-b6bb957e80c9.jpg" group-title="Kolkata Movie", Premer Kahini (2008)
 https://pixeldrain.dev/api/file/jDtt7x1o?download
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/55ac0e59-f45d-4a68-b482-c7120986bd19.jpg" group-title="Kolkata Movie", Romeo (2011)
 https://pixeldrain.dev/api/file/DE2duFnX?download
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/a91abded-a7b6-4e3e-a0e2-3bc71b240208.jpg" group-title="Kolkata Movie", Mastan (2004)
 https://pixeldrain.dev/api/file/DUKWHt5u?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/4bc47024-9075-4e98-9432-08c0054e8c1e.jpg" group-title="English Movie", Manik (2005)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/4bc47024-9075-4e98-9432-08c0054e8c1e.jpg" group-title="Kolkata Movie", Manik (2005)
 https://pixeldrain.dev/api/file/66cXyTBj?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/1e932ead-40d7-48f4-8078-65daa32f542b.jpg" group-title="English Movie", Archier Gallery (2023)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1e932ead-40d7-48f4-8078-65daa32f542b.jpg" group-title="Kolkata Movie", Archier Gallery (2023)
 https://pixeldrain.dev/api/file/VyiqYx2m?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/e7855e79-7489-419a-934d-7c78e4561187.jpg" group-title="Hindi Movie", Golpo Holeo Shotti (2014)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e7855e79-7489-419a-934d-7c78e4561187.jpg" group-title="Kolkata Movie", Golpo Holeo Shotti (2014)
 https://pixeldrain.dev/api/file/ufNLn4nD?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/8a9b74cc-6ccb-4731-b375-dbd4dfd43cf0.jpg" group-title="Hindi Movie", Amrapali (2022)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/8a9b74cc-6ccb-4731-b375-dbd4dfd43cf0.jpg" group-title="Kolkata Movie", Amrapali (2022)
 https://pixeldrain.dev/api/file/YionUAPt?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/7219b0ac-ca13-4310-a343-ac090363f1b1.jpg" group-title="Bangla serial", Piya Re (2018)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7219b0ac-ca13-4310-a343-ac090363f1b1.jpg" group-title="Kolkata Movie", Piya Re (2018)
 https://pixeldrain.dev/api/file/etWyg8i4?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/93540676-cbf7-439d-94e0-226e4c398f3c.jpg" group-title="Bangla serial", Panther (2019)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/93540676-cbf7-439d-94e0-226e4c398f3c.jpg" group-title="Kolkata Movie", Panther (2019)
 https://pixeldrain.dev/api/file/dbS8orNc?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/5b5c7ba5-fb08-4c2c-b20e-bd9a94a50d3b.jpg" group-title="Cricket Highlight", Shankar Mudi (2019)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/5b5c7ba5-fb08-4c2c-b20e-bd9a94a50d3b.jpg" group-title="Kolkata Movie", Shankar Mudi (2019)
 https://pixeldra.in/api/file/xCtFrWFE?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/f79589d2-16b9-4e9c-8a70-d62c20019334.jpg" group-title="Cricket Highlight", Sahaj Paather Gappo (2016)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f79589d2-16b9-4e9c-8a70-d62c20019334.jpg" group-title="Kolkata Movie", Sahaj Paather Gappo (2016)
 https://pixeldra.in/api/file/XYiW5krm?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/f41ab2a7-ac27-4770-8ba1-4ceaacca9716.jpg" group-title="Cricket Highlight", Dainee (2025) S01
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7921bbcd-951e-4e61-933c-888ff550da04.jpg" group-title="Kolkata Movie", Hemlock Society (2012)
+https://pixeldrain.net/api/file/2FYdihGQ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c3c4d939-e3e7-4b6c-83c1-0b7e0bb7f0e3.jpg" group-title="Kolkata Movie", Rawkto Rawhoshyo (2020)
+https://pixeldrain.net/api/file/dXzX9feS?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/420199ad-e762-4aff-bec7-e714c67ceb71.jpg" group-title="Kolkata Movie", Bony (2021)
+https://pixeldrain.net/api/file/wxad2v4C?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0fb22abf-1ae9-4b23-be2a-8672ff764d8e.jpg" group-title="Kolkata Movie", Hobu Chandra Raja Gobu Chandra Mantri (2021)
+https://pixeldra.in/api/file/pcnGNMaR?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3b085640-81f9-4365-8998-8ee284f91112.jpg" group-title="Kolkata Movie", Miss Call (2021)
+https://pixeldra.in/api/file/pz9ybmzd?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/41022d50-b9cd-4363-b3de-897ca07a0019.jpg" group-title="Kolkata Movie", Amar Challenge (2021)
+https://pixeldra.in/api/file/GDGS5bUH?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/db9a7281-6bae-44a8-a356-ca46cfa60c8f.jpg" group-title="Bangla Web", Bishohori (2025) S01
+https://pixeldrain.com/api/file/nws65sXG?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f41ab2a7-ac27-4770-8ba1-4ceaacca9716.jpg" group-title="Bangla Web", Dainee (2025) S01
 https://pixeldrain.net/api/file/qGtnJh61?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/c75f043b-906c-41dd-85ae-546483235f3e.jpg" group-title="Cricket Highlight", Hanshi Khushi Club (2009)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c75f043b-906c-41dd-85ae-546483235f3e.jpg" group-title="Kolkata Movie", Hanshi Khushi Club (2009)
 https://pixeldrain.com/api/file/6JGVAU2G?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/480f675d-8b72-4d3a-9359-51e4b325dd74.jpg" group-title="Bangla serial", Ardhangini (2023)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/480f675d-8b72-4d3a-9359-51e4b325dd74.jpg" group-title="Kolkata Movie", Ardhangini (2023)
 https://pixeldrain.net/api/file/NRx47g3n?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/71e76597-ed84-48f4-a1b2-d9d5d3c20f4d.jpg" group-title="Bangla serial", Datta Datta (2023)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/71e76597-ed84-48f4-a1b2-d9d5d3c20f4d.jpg" group-title="Kolkata Movie", Datta Datta (2023)
 https://pixeldrain.dev/api/file/bvRBVFtQ?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/2ccaf1b2-48e9-4648-aa5e-00b8b9556ffe.jpg" group-title="Hindi Movie", The Eken Benaras e Bibhishika (2025)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2ccaf1b2-48e9-4648-aa5e-00b8b9556ffe.jpg" group-title="Kolkata Movie", The Eken Benaras e Bibhishika (2025)
 https://pixeldrain.dev/api/file/dEEziK5q?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/a24b9b64-8893-4c0e-b15f-5351dc1f7ad5.jpg" group-title="Hindi Movie", Dui Prithibi (2010)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a24b9b64-8893-4c0e-b15f-5351dc1f7ad5.jpg" group-title="Kolkata Movie", Dui Prithibi (2010)
 https://pixeldra.in/api/file/aHJP3eFQ?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/75278aa8-9ce0-4bd3-ac77-92499f2f558d.jpg" group-title="English Movie", Daaku Maharaaj (2025)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/75278aa8-9ce0-4bd3-ac77-92499f2f558d.jpg" group-title="South Movie", Daaku Maharaaj (2025)
 https://pixeldrain.com/api/file/VJdcs9aQ?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/cc0521c3-8a62-4fee-952b-ce00ce857234.jpg" group-title="English Movie", Rangbaaz (2013)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/cc0521c3-8a62-4fee-952b-ce00ce857234.jpg" group-title="Kolkata Movie", Rangbaaz (2013)
 https://pixeldrain.net/api/file/a8noAnpk?download
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/a0556fcd-3b10-4e24-b090-82909fd10fd9.jpg" group-title="Bangla Movie", Abhimanyu (2006)
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a0556fcd-3b10-4e24-b090-82909fd10fd9.jpg" group-title="Kolkata Movie", Abhimanyu (2006)
 https://pixeldrain.dev/api/file/TABr9A23?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/5db80361-e540-45a8-bbae-0460059bb281.jpg" group-title="Kolkata Movie", Kidnap (2019)
+https://pixeldrain.dev/api/file/QFcm5QGk?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/04791195-ee5d-4f6f-98fe-b2922d3e4041.jpg" group-title="Kolkata Movie", Jaaneman (2012)
+https://pixeldrain.dev/api/file/XwohqwmH?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/980a296e-f96c-4679-b48c-2eccc0ea96d3.jpg" group-title="Kolkata Movie", Jio Pagla (2017)
+https://pixeldrain.dev/api/file/RPeEKi3Y?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2de79a76-fa9a-444a-aa1f-f52fcb8f1bb1.jpg" group-title="Kolkata Movie", Shubhodrishti (2005)
+https://pixeldra.in/api/file/TNFPBuPB?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b9610037-f951-44f7-8fe6-bb22584e9c85.jpg" group-title="Kolkata Movie", Open Tee Bioscope (2015)
+https://pixeldra.in/api/file/yE6dC8Sb?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/da2427cb-f280-458c-8615-c9c118e34c2f.jpg" group-title="Kolkata Movie", Shontaan (2024)
+https://pixeldrain.net/api/file/kWTAXSmf?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e32a43ca-2382-4ea5-ab83-8ac89039a65c.jpg" group-title="Kolkata Movie", Bojhena Shey Bojhena (2012)
+https://pixeldrain.net/api/file/UnLbZXrB?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/beed0d55-e50d-4171-9485-df5151eb74ea.jpg" group-title="Kolkata Movie", Chirodini Tumi Je Amar (2008)
+https://pixeldra.in/api/file/mcEF9cRR?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/64432d6e-230f-47d5-b519-1655805716f3.jpg" group-title="Kolkata Movie", Chirodini Tumi Je Amar 2 (2014)
+https://pixeldra.in/api/file/p1oXTs5p?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a949c8d5-10ab-426f-87ed-cb18311d8e44.jpg" group-title="Kolkata Movie", Dictionary (2021)
+https://pixeldra.in/api/file/pPip7xcf?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1a70e254-872d-4b66-acd7-a5048acb7cb0.jpg" group-title="Kolkata Movie", Finally Bhalobasha (2019)
+https://pixeldra.in/api/file/9sQZFPoZ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0f95bb81-2d81-4ffb-9b41-ca93419bf5b8.jpg" group-title="Kolkata Movie", Lukochurii (2010)
+https://pixeldra.in/api/file/Ucv2NcWL?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fea011bb-af6b-4e6f-83e6-75c66bcc31c5.jpg" group-title="Kolkata Movie", Kuler Achaar (2022)
+https://pixeldra.in/api/file/2jrcaBsd?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2c7d1b62-84fd-46f0-8dca-6a86ed50a3f0.jpg" group-title="Kolkata Movie", Awara (2012)
+https://pixeldra.in/api/file/dERcwwaW?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b30168e3-040d-458c-854e-c3550f4c9f55.jpg" group-title="Kolkata Movie", Drishtikone (2018)
+https://pixeldra.in/api/file/8QHcYLSd?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c879c3c7-27a3-4a8d-aca3-f7947652b292.jpg" group-title="Kolkata Movie", Meghe Dhaka Tara (2013)
+https://pixeldra.in/api/file/sszs2L2P?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ca33ba3b-ab51-4992-960f-c2e06952d8d2.jpg" group-title="Kolkata Movie", Alinagarer Golokdhadha (2018)
+https://pixeldra.in/api/file/wXmvx7Zb?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/342f0490-9ca9-41fc-a3dc-f87f71a2e7a4.jpg" group-title="Kolkata Movie", Goyenda Tatar (2019)
+https://pixeldra.in/api/file/jamr52wA?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/dda3063c-1c9d-4cd8-8f22-b0c9ac7d8413.jpg" group-title="Kolkata Movie", Jaalbandi (2022)
+https://pixeldra.in/api/file/HSDiBnp4?download
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/12893dc4-bf6b-4a44-87c2-d56833377002.jpg" group-title="Kolkata Movie", Sheser Golpo (2019)
 https://pixeldra.in/api/file/AKgjPAYW?download
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/12893dc4-bf6b-4a44-87c2-d56833377002.jpg" group-title="Kolkata Movie", Sheser Golpo (2019)
@@ -52,6 +453,842 @@ https://pixeldra.in/api/file/TDPLWrBc?download
 https://pixeldra.in/api/file/7GXmkh4x?download
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/a0192b25-007b-4e3e-a551-8adfff66cb98.jpg" group-title="Kolkata Movie", Gangster (2016)
 https://pixeldra.in/api/file/pCWe3xtk?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f99ace47-38d1-477a-99a5-8696078666aa.jpg" group-title="Kolkata Movie", Baazi (2021)
+https://pixeldrain.dev/api/file/22BHumBi?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/75df2e5d-244e-4803-bb37-28b351b983e2.jpg" group-title="Kolkata Movie", Alaap (2024)
+https://pixeldrain.dev/api/file/USF3iiwd?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d593701b-7457-4212-a1ee-e7beff7a0e6c.jpg" group-title="Kolkata Movie", Amanush (2010)
+https://pixeldra.in/api/file/MG8cuxY2?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/512cc4e6-e356-4a6e-9868-081f2d59626a.jpg" group-title="Kolkata Movie", Amanush 2 (2015)
+https://pixeldra.in/api/file/VcqzoNi2?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/29fb5ebc-c0a4-4fb0-a58c-e74c16197628.jpg" group-title="Kolkata Movie", Amazon Obhijaan (2017)
+https://pixeldra.in/api/file/fBtX2yr9?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/88e2e5ca-7099-4b28-9279-73709e506b6b.jpg" group-title="Kolkata Movie", Angshuman MBA (2023)
+https://pixeldra.in/api/file/H6SwMhzQ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/be900cdd-9fa7-4d9a-8d27-99e04034851d.jpg" group-title="Kolkata Movie", Bachchan (2014)
+https://pixeldra.in/api/file/U9tuxbsT?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f96b1aa9-dc5c-494a-aa77-5e9aa1c80d63.jpg" group-title="Bangladesh Movie", Aami Shudhu Cheyechhi Tomay (2014)
+https://pixeldrain.dev/api/file/tKgui8mD?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/dc4804d6-93c3-4d72-a541-6e3122af0d87.jpg" group-title="Kolkata Movie", Paglu (2011)
+https://pixeldra.in/api/file/A4Z87v2d?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/88bc351e-ec57-4f2a-b098-7e3306506eaa.jpg" group-title="Kolkata Movie", Amader Samparka (2023)
+https://pixeldrain.dev/api/file/F1vCnN1q?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/878e6044-e551-4121-97fb-60f1793d4a9e.jpg" group-title="Kolkata Movie", Paglu 2 (2012)
+https://pixeldra.in/api/file/jtt7b9cf?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/39ec6e3f-1ea3-44db-aa2d-4941161744c4.jpg" group-title="Kolkata Movie", Badsha â€“ the Don (2016)
+https://pixeldra.in/api/file/34NKsMhV?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/26555b5c-d965-4a20-8e2f-541b6de08e0e.jpg" group-title="Kolkata Movie", Bangali Babu English Mem (2014)
+https://pixeldra.in/api/file/AkDXif7s?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d07f9a9a-0ff6-4343-bf5d-452301b85b7d.jpg" group-title="Kolkata Movie", Bhootchakra Pvt. Ltd
+https://pixeldra.in/api/file/r5r6oUhP?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/4d1126ac-87a0-4619-a9ba-d65687a76c53.jpg" group-title="Kolkata Movie", Boss 2 (2017)
+https://pixeldra.in/api/file/4ixp8mm1?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/682cfb29-0723-48e3-9d84-a72b05e93120.jpg" group-title="Kolkata Movie", Deewana (2013)
+https://pixeldrain.net/api/file/KDwq21ws?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fea34afb-bb24-41f2-b224-afcc455eb327.jpg" group-title="Kolkata Movie", Dujone (2009)
+https://pixeldrain.dev/api/file/N9v9QAd1?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/eb16e5cd-ee63-4813-8c8f-ea9468d2c313.jpg" group-title="Kolkata Movie", Ei Ami Renu (2021)
+https://pixeldrain.dev/api/file/8FhoCX5i?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f09f99f1-3ddc-44f0-bb05-d92aa9f5facb.jpg" group-title="Kolkata Movie", Ghore Pherar Gaan (2023)
+https://pixeldrain.dev/api/file/Uiq8VLE8?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/142b6e46-8322-47e7-adbd-208e579511d0.jpg" group-title="Bangladesh Movie", Borbaad (2025)
+https://pixeldrain.dev/api/file/hRHGHHmk?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b17f1bb5-3224-4f32-8b65-5a669aa0833a.jpg" group-title="Kolkata Movie", Bindaas (2014)
+https://pixeldrain.com/api/file/cJi366x6?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c171d72a-31ec-4cc4-8eb8-4ac51c56b042.jpg" group-title="Bangla Dubbed Movie", Srinivasa Kalyanam (2024)
+https://pixeldrain.dev/api/file/eiXyHWrD?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e59ffe35-0371-4035-b859-27ab1a255a9a.jpg" group-title="Kolkata Movie", Unish Bish (2019)
+https://pixeldrain.dev/api/file/enBtEZuQ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2b9e30c1-306e-425f-8ffc-5dbc657f310c.jpg" group-title="Bangla Dubbed Movie", Premam (2025)
+https://pixeldrain.dev/api/file/mxkvDmpm?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/82818d9b-f742-4579-88b6-fdd564dbf9fe.webp" group-title="Bangla Dubbed Movie", Flashbacks of a Fool-Odhora Prem (2025)
+https://pixeldrain.dev/api/file/tAJ5xkSv?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/90dfaace-c8e4-428e-8a24-4d90d4c54419.jpg" group-title="Kolkata Movie", Yuddha (2005)
+https://pixeldrain.dev/api/file/tZhdQvYr?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/85956bc2-4ea3-4b55-99f5-c791888ff7d4.jpg" group-title="Kolkata Movie", Savings Account (2022)
+https://pixeldrain.dev/api/file/ZM3Yy9Lt?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/85f61681-ab86-4276-b0d2-50036e7219e4.jpg" group-title="Bangladesh Movie", Priyotoma (2023)
+https://pixeldrain.dev/api/file/3dAvm91B?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0dac6797-6c0b-4c14-ab06-5da0a23bdaa4.jpg" group-title="Bangladesh Movie", Dorod (2024)
+https://pixeldrain.dev/api/file/KoM348kH?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/9734756c-4871-4290-8631-0da716aa41ac.jpg" group-title="Bangladesh Movie", Local (2023)
+https://pixeldrain.dev/api/file/DnE3BgYo?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/985e8e1e-9b06-47fd-b79f-9d30e106e3dd.jpg" group-title="Bangladesh Movie", Omar (2024)
+https://pixeldrain.dev/api/file/UYJjNPMn?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b8326a07-586c-435d-91d2-3d11ef5830ef.jpg" group-title="Kolkata Movie", Badsha The King (2004)
+https://pixeldrain.dev/api/file/XcJGasLc?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3e0c1f8f-0da4-4481-a658-8412ad1eec00.jpg" group-title="Kolkata Movie", Rakhe Hari Mare Ke (2003)
+https://pixeldrain.dev/api/file/2NVRqrzZ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/938a2337-a2b3-4b95-bb88-bdaf5904009f.jpg" group-title="Kolkata Movie", Kartabya (2003)
+https://pixeldrain.dev/api/file/hTaqLnmd?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c428b4e4-2d73-47af-97d1-ab6a8d714fb7.jpg" group-title="Kolkata Movie", Sasur Bari Zindabad (2000)
+https://pixeldrain.dev/api/file/WdQ2bWTY?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0ded6ecc-833a-493a-9110-b128a05f428a.jpg" group-title="Kolkata Movie", Raju Uncle (2005)
+https://pixeldrain.dev/api/file/wdLHA7MP?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a0760ecc-f0bf-4588-8b3b-3c58a1907774.jpg" group-title="Kolkata Movie", Golondaaj (2021)
+https://pixeldrain.dev/api/file/YDn9yGqB?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f7ead243-5262-4191-90b8-6eb8e52fb5e1.jpg" group-title="Kolkata Movie", Shudhu Tomari Jonyo (2015)
+https://pixeldrain.net/api/file/io75qBuS?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d1d94e5d-ee1d-45d8-a8b9-be4784e337a2.jpg" group-title="Kolkata Movie", Sultan: The Saviour (2018)
+https://pixeldra.in/api/file/LdZy6YNd?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3a82d66f-50a4-471f-9bcf-b4ab2f2f2ed6.jpg" group-title="Kolkata Movie", Shedin Dekha Hoyechilo (2010)
+https://pixeldra.in/api/file/efzpcF5c?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6a588119-06fa-48dc-bf00-58e82759bef6.jpg" group-title="Kolkata Movie", Sathi (2002)
+https://pixeldra.in/api/file/bpKtxVdn?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b183acf9-a91d-4a13-a1b5-e85cf60e2d0f.jpg" group-title="Kolkata Movie", Raavan (2022)
+https://pixeldra.in/api/file/nSn3anwt?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ded1c65b-1ffa-4144-b6c0-5d59b0accb93.jpg" group-title="Kolkata Movie", Power (2016)
+https://pixeldra.in/api/file/ozPmWvWo?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2034c310-994c-474a-ae2e-6f8cea86ad8c.jpg" group-title="Bangla Dubbed Movie", RRR (2022) Bengali
+https://pixeldra.in/api/file/WLWKpFL5?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f7dd4864-6f48-4b0e-bd85-28a25249e879.jpg" group-title="Kolkata Movie", Abar Bibaho Obhijaan (2023)
+https://pixeldrain.dev/api/file/e8AZPrJe?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2476156f-17d8-4769-8129-4e53fe2941b8.jpg" group-title="Kolkata Movie", Abhimaan (2016)
+https://pixeldra.in/api/file/hGgAeBS7?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a5727136-2c0c-4d42-bd02-cb2502ac0590.jpg" group-title="Kolkata Movie", Action (2014)
+https://pixeldrain.net/api/file/epcjwf6X?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/eeef8c20-d46b-42ec-887f-c9f14c0ffd1e.jpg" group-title="Kolkata Movie", Jamai Raja (2009)
+https://pixeldrain.dev/api/file/SxCbQUqR?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/9110fd71-089a-4383-9579-3ab19f601594.jpg" group-title="Kolkata Movie", Aaghat (2001)
+https://pixeldrain.dev/api/file/qVxoUP8K?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/800ee1e6-9a7c-46fd-a6ef-92eb53d8badc.jpg" group-title="Bangladesh Movie", Adventure of Sundarbans (2023)
+https://pixeldrain.net/api/file/Ui1yznrz?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/8e3ea635-51cc-4865-a973-a71bfe6569bf.jpg" group-title="Bangladesh Movie", Kustigir (2025)
+https://pixeldrain.net/api/file/j7865t8C?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/08b82501-ead3-4d1c-a57a-dcb3720f4bf1.jpg" group-title="Bangladesh Movie", Bubujaan (2023)
+https://pixeldrain.net/api/file/KjnREk8k?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/9edc2d4a-221d-4f80-8cf9-0019ac5810b6.jpg" group-title="Bangladesh Movie", Jongli (2025)
+https://pixeldrain.dev/api/file/o6dtfqS1?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/63a06bb2-ab7c-4c56-b8e0-5c0a1115d558.jpg" group-title="Bangladesh Movie", Moner Majhe Tumi (2003)
+https://pixeldrain.com/api/file/SERcJoA4?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/577621a5-80cc-4f1b-b2d6-757fc5c496d2.jpg" group-title="Bangladesh Movie", Bhalobasa Aaj Kal (2013)
+https://pixeldra.in/api/file/UT5f7cW5?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/bdcd83d3-3543-4628-8bbc-b1242f25966a.jpg" group-title="Bangladesh Movie", Psycho (2022)
+https://pixeldrain.net/api/file/ioEgirgt?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6c36de11-be5c-418a-ba2b-ae0163edf8b9.jpg" group-title="Bangladesh Movie", Dohon â€“ Dahan (2018)
+https://pixeldra.in/api/file/NpUZRZdk?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1024a7c0-b6ed-4303-8b7a-03fc4e029f51.jpg" group-title="Bangladesh Movie", Adim (2024)
+https://pixeldra.in/api/file/aiPYhjKN?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7bca479f-fab7-4c60-a1a1-1b04b86d0276.jpg" group-title="Bangladesh Movie", Swapnajaal (2018)
+https://pixeldra.in/api/file/kPrcPGAU?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/049222b2-68ab-4315-9bc3-f910c1d35802.jpg" group-title="Bangladesh Movie", Shoroter Joba (2024)
+https://pixeldra.in/api/file/96AbtaZ8?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/40698753-f7a1-4b9f-b65c-654cc6dfb841.jpg" group-title="Bangla Dubbed Movie", Pushpa: the Rise (2021)
+https://pixeldra.in/api/file/sVZ21uMV?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/9d36afa8-9546-4317-9f4c-cdb8a2b38a83.jpg" group-title="Bangla Dubbed Movie", Pushpa 2 â€“ The Rule (2024)
+https://pixeldra.in/api/file/W8VSrNna?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ee51ad40-a77b-4a79-913d-3615e3a38ceb.jpg" group-title="Bangladesh Movie", Hawa (2022)
+https://pixeldra.in/api/file/df3TNBLk?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d426df18-886c-4338-8937-2e07d8153d55.jpg" group-title="Bangladesh Movie", Hubba (2024)
+https://pixeldra.in/api/file/CNy6rLnq?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/da17de92-1714-44f4-87a2-c9b8290a01ef.jpg" group-title="Bangladesh Movie", Jinn (2023)
+https://pixeldrain.net/api/file/8VSV4Vwp?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/5354d8b2-fff0-49b8-a15a-df44240ef746.jpg" group-title="Bangladesh Movie", Jole Jole Tara (2025)
+https://pixeldrain.dev/api/file/xvMcXThW?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/4df2bd9c-2970-460a-a8e0-7777db5e9919.jpg" group-title="Bangladesh Movie", Jinn 3 (2025)
+https://pixeldrain.dev/api/file/cTnGtk1B?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/74967057-010a-43e6-a017-db1db76c95fe.jpg" group-title="Bangladesh Movie", Kagoj-The Paper (2023)
+https://pixeldrain.dev/api/file/9AfFHvzN?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2d7f4f94-e65d-4109-a35f-80a0c1630659.jpg" group-title="Bangladesh Movie", Kagojer Bou (2025)
+https://pixeldrain.dev/api/file/HjH6TEpY?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/57167b60-7ead-4c13-990f-0a319310cf3d.jpg" group-title="Bangladesh Movie", Kuhelika (2023)
+https://pixeldra.in/api/file/u47MVagC?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f1e5e12d-6de9-4324-a23f-91909e62925e.jpg" group-title="Bangladesh Movie", Lal Shari (2023)
+https://pixeldra.in/api/file/nc4wxDmw?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/51f9d3ad-5fa4-4468-9b3f-fbec82407d26.jpg" group-title="Bangladesh Movie", Lohar Tori (2022)
+https://pixeldra.in/api/file/5dMPwu4n?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/38e406d7-d0a8-445c-9875-ab0fc43749bb.jpg" group-title="Bangladesh Movie", Makeup (2020)
+https://pixeldrain.dev/api/file/1anK6UJB?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2700fc29-7ccd-41dd-9cb9-a6124e2a121a.jpg" group-title="Bangladesh Movie", Meghna Konnya (2024)
+https://pixeldrain.dev/api/file/Hhez7FNC?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/9537bb0f-5b21-4062-9388-2b6d094b88b9.jpg" group-title="Bangladesh Movie", Mirza-Chapter Club 29 (2025)
+https://pixeldrain.dev/api/file/nLo3xCXD?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2c837b12-eeeb-4342-abdb-24863328b61c.jpg" group-title="Bangladesh Movie", Moner Moto Manush Pailam Na (2019)
+https://pixeldrain.net/api/file/bsWq63b9?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/55e1a67d-b3c3-4d62-b210-a675674028a5.jpg" group-title="Bangladesh Movie", Monpura (2009)
+https://pixeldra.in/api/file/SimuipXe?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c9d1914d-61c3-4c14-a24e-0a950b3a1502.jpg" group-title="Bangladesh Movie", Mukhosh (2022)
+https://pixeldra.in/api/file/36kbwoRJ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3db4675d-8240-4ec0-b435-01daa64abd7e.jpg" group-title="Bangladesh Movie", Nabab (2017)
+https://pixeldra.in/api/file/M2xwQQdx?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/5f351769-e42a-4f5c-937d-de5edfe4b45a.jpg" group-title="Bangladesh Movie", Nabab LLB (2020)
+https://pixeldrain.net/api/file/FfZtCHJA?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c24fd071-2d0f-40ae-a383-7576f7796cb6.jpg" group-title="Bangladesh Movie", Neel Joler Kabyo (2023)
+https://pixeldra.in/api/file/o9ApnDCr?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/85f89ec8-aa5c-4523-8712-85204c23a323.jpg" group-title="Bangladesh Movie", No Dorai (2019)
+https://pixeldrain.dev/api/file/iuM84BjZ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1df13b4d-be6c-4056-a5aa-c9c3699a9fc7.jpg" group-title="Bangladesh Movie", Operation Sundarban (2022)
+https://pixeldra.in/api/file/67BBephG?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/800528af-dbd4-4ebf-a2f8-b6845d612b38.jpg" group-title="Bangladesh Movie", Paap (2023)
+https://pixeldra.in/api/file/Q818fsfq?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/898d031c-b284-4801-b4d7-2c0db1faf0ec.jpg" group-title="Bangladesh Movie", Peyarar Subash (2024)
+https://pixeldra.in/api/file/g7CtqyBy?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d15ca612-0e45-4cd6-b966-5ba102ce7c9b.jpg" group-title="Bangladesh Movie", Poison (2024)
+https://pixeldra.in/api/file/XnE7BUdv?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d868ea8f-55dd-47a2-9cb0-6329a85e2a3c.jpg" group-title="Bangladesh Movie", Poramon 2 (2018)
+https://pixeldra.in/api/file/XmtJ1KLz?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d805eb76-a614-42f8-9110-329baa475d71.jpg" group-title="Bangladesh Movie", Premi O Premi (2017)
+https://pixeldra.in/api/file/C3E7ssGX?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ab28f953-5706-42e1-9efa-74f263292be3.jpg" group-title="Bangladesh Movie", Priyo Maloti (2025)
+https://pixeldra.in/api/file/EhHpXPyb?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/534eca23-57a3-4dd1-bd4e-136647fec50c.jpg" group-title="Bangladesh Movie", Prohelika (2023)
+https://pixeldra.in/api/file/YChFWe7B?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2a0c38de-7f74-4aac-8427-dac15c7e0b40.jpg" group-title="Bangladesh Movie", Rajkumar (2024)
+https://pixeldra.in/api/file/6LarD6Wr?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/50ecf840-0a90-451f-8d38-b83051459ae1.jpg" group-title="Bangladesh Movie", Redrum (2022)
+https://pixeldra.in/api/file/CZHoSU4a?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fd0c6174-17e9-4218-bcc4-c837433a88f1.jpg" group-title="Bangladesh Movie", Revenge (2024)
+https://pixeldrain.net/api/file/WgSTjxA6?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/dd9ae314-7ce7-416d-a7c0-17495d4d9106.jpg" group-title="Bangladesh Movie", Rickshaw Girl (2021)
+https://pixeldrain.net/api/file/DfaDrecU?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/809a827d-0d7f-463b-817b-e0f241dc2b12.jpg" group-title="Bangladesh Movie", Roktojoba (2023)
+https://pixeldra.in/api/file/bemu6H7B?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/4eeefa42-0ace-431b-84f1-40fc1656a740.jpg" group-title="Bangladesh Movie", Saturday Afternoon (2023)
+https://pixeldrain.dev/api/file/LwdGoBn1?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f3c64148-838b-4787-8edd-505a37cd0f0b.jpg" group-title="Bangladesh Movie", Shaan (2022)
+https://pixeldra.in/api/file/HuwmzbLP?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0aea9ca0-c3a7-490f-8ae3-f140149b22b4.jpg" group-title="Bangladesh Movie", Shahenshah (2021)
+https://pixeldra.in/api/file/i7dPhfiB?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7cec758f-0cf1-49ea-af7a-e65e20567d4c.jpg" group-title="Bangladesh Movie", Shatru (2023)
+https://pixeldra.in/api/file/AmEoyCmp?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f9024e65-f07a-408b-a992-a9bd5dad214b.jpg" group-title="Bangladesh Movie", Shodh (2025)
+https://pixeldrain.dev/api/file/z5Dszht4?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/8d18cf3a-e5f5-486a-b678-418ff3bae600.jpg" group-title="Bangladesh Movie", Shyama Kabya (2025)
+https://pixeldrain.com/api/file/rCgABFUJ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6bfdcaa2-f734-4aa2-8e3a-47259180eff6.jpg" group-title="Bangladesh Movie", Sphulingo (2021)
+https://pixeldra.in/api/file/WJNrVjc3?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/52c7e186-373e-4506-84e0-4acda362bd02.jpg" group-title="Bangladesh Movie", Surongo (2023)
+https://pixeldra.in/api/file/Jdf5wJJ9?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7a7b5acb-403f-43d3-8e82-962037ee7e41.jpg" group-title="Bangladesh Movie", Taan (2022)
+https://pixeldra.in/api/file/RAmDWvHN?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b1432f9e-e310-4571-947b-004b84a1ab28.jpg" group-title="Bangladesh Movie", Television (2012)
+https://pixeldra.in/api/file/7bo4hpxf?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/44812230-1fc9-4fcc-85f8-6115b0d69547.jpg" group-title="Bangladesh Movie", The Dark Side of Dhaka (2021)
+https://pixeldra.in/api/file/Wdj5xVo4?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6e42801b-ca19-4dbb-829f-8f4f1b1325c4.jpg" group-title="Bangladesh Movie", Aashiqui â€“ True Love (2015)
+https://pixeldra.in/api/file/xKaUoAUt?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2f316cec-2a59-49e9-a023-c04b9458012f.jpg" group-title="Bangladesh Movie", Agamikal (2022)
+https://pixeldra.in/api/file/cYmpEmaQ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/8e57b742-a302-4427-9579-fc5f5e7369b0.jpg" group-title="Bangladesh Movie", Agnee (2014)
+https://pixeldrain.net/api/file/on4cCmYN?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b0432fd1-0a22-44f8-89c8-0246dc3e6501.jpg" group-title="Bangladesh Movie", Agnee 2 (2015)
+https://pixeldra.in/api/file/AdK1u9F9?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d3091660-645e-443b-8a1a-069ff7072232.jpg" group-title="Bangladesh Movie", Agontuk (2024)
+https://pixeldrain.com/api/file/iDTHqozr?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/138cb0eb-b72d-4d4b-95ca-89201a473d6c.jpg" group-title="Bangladesh Movie", Alpin (2022)
+https://pixeldrain.dev/api/file/AhWzcacH?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3257f95c-fc06-4383-9147-2ef70ba27b2c.jpg" group-title="Bangladesh Movie", Amalnama (2025)
+https://pixeldrain.com/api/file/RbZkyLfF?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d3ae74f5-d5ae-4e3d-896c-84f62994b82d.jpg" group-title="Bangladesh Movie", Angaar (2016)
+https://pixeldra.in/api/file/21ckEfg1?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/de6893da-cbd1-4ed6-8609-33ac4dcdfd5f.jpg" group-title="Bangladesh Movie", Antarjal (2023)
+https://pixeldrain.dev/api/file/JB6MigXy?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fc94ea05-ae8d-4f8c-8d9e-425603fe80d0.jpg" group-title="Bangladesh Movie", Aynabaji (2016)
+https://pixeldrain.net/api/file/tgopN5Uv?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c55ca09a-c742-4f00-9797-761dce1e8f81.jpg" group-title="Bangladesh Movie", Bhaijaan Elo Re (2018)
+https://pixeldra.in/api/file/4LDDS3B5?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b1642502-9d81-4984-82d7-229e084da936.jpg" group-title="Bangladesh Movie", Bibhabori (2024)
+https://pixeldra.in/api/file/ko4fYgyW?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/50e4f12a-7fa5-4669-87d2-7a5dea92fc77.jpg" group-title="Bangladesh Movie", Bidrohi â€“ The Rebel (2022)
+https://pixeldra.in/api/file/Ps8Kfabf?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/5344a686-9f94-4a5b-83f6-59489c0ff807.jpg" group-title="Bangladesh Movie", Casino (2023)
+https://pixeldra.in/api/file/5NTAQhZt?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3f009490-ba8c-4032-a5b3-c8baaf783f46.jpg" group-title="Bangladesh Movie", Chhaya (2025)
+https://pixeldrain.net/api/file/T7K15ULE?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1c24ebb4-24a2-49aa-b418-fbc443261901.jpg" group-title="Bangladesh Movie", Chokkor 302 (2025)
+https://pixeldrain.dev/api/file/TLwmxE6A?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/5b6db658-fe47-46f7-8ba5-d506ce0a0dd6.jpg" group-title="Bangladesh Movie", Criminals (2024)
+https://pixeldrain.dev/api/file/PKnQAYny?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0da54370-c0af-413a-98ed-0b2adfffd895.jpg" group-title="Bangladesh Movie", Daag (2023)
+https://pixeldra.in/api/file/F9TyiJiH?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0760ec65-0c27-4dcc-b4d9-dcd6aa130d50.jpg" group-title="Bangladesh Movie", Naqaab (2018)
+https://pixeldra.in/api/file/e9YYJ98c?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/83636172-73ee-46fe-9ecf-97a8b46cae7f.jpg" group-title="Bangladesh Movie", Dhatteriki (2017)
+https://pixeldra.in/api/file/KrnTTtaM?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/cb74e893-f2de-4563-a573-e6a00bcff461.jpg" group-title="Bangladesh Movie", Din The Day (2023)
+https://pixeldrain.dev/api/file/jvzeH2HH?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7d65712c-ff80-4ffd-ae9d-de23a3aa7287.jpg" group-title="Bangladesh Movie", Fatima (2025)
+https://pixeldrain.net/api/file/JkYsr2jY?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/77a5e690-994a-4ec0-a70e-13ac7b7a040f.jpg" group-title="Bangladesh Movie", Friday (2023)
+https://pixeldra.in/api/file/PkBaE6eD?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7efdd0bf-4132-47c5-b337-cd68d5221829.jpg" group-title="Bangladesh Movie", Gunin (2022)
+https://pixeldra.in/api/file/2k1bkVjv?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/dff64111-6ed7-457d-8c27-458aab8983fa.jpg" group-title="South Movie", 777 Charlie (2022)
+https://pixeldrain.dev/api/file/PxZ6WgtJ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d28b5ed9-867a-4e35-ba47-0690b9660dc0.jpg" group-title="South Movie", Agent (2023)
+https://pixeldrain.dev/api/file/3ANKvLtk?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/8dc22e8d-270a-4cea-b2e3-15e7d7981a23.jpg" group-title="South Movie", Show Time (2025)
+https://pixeldrain.dev/api/file/ofiPZet3?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fcf514c1-f491-4f27-bcb5-ba6518b2e74a.jpg" group-title="South Movie", Aambala (2015)
+https://pixeldrain.dev/api/file/b2mgeeDP?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6e1f40c0-f0ce-4e0c-bfcf-6a4473d13223.jpg" group-title="South Movie", Bengal Tiger (2015)
+https://pixeldrain.dev/api/file/q7TRPj5R?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/37c65621-2126-43a6-ad28-01692257facd.jpg" group-title="South Movie", Satyabhama (2024)
+https://pixeldrain.dev/api/file/fcGve6Lz?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/dedf481c-aaa1-436a-9a0b-8e1d88afaa4d.jpg" group-title="South Movie", Ala Vaikunthapurramuloo (2020)
+https://pixeldrain.dev/api/file/upTK84uk?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2de86b91-4779-43b1-b965-e45e411831d9.jpg" group-title="South Movie", Venky Mama (2019)
+https://pixeldrain.dev/api/file/2kNhi7Um?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/4b3adcdc-2c2a-4138-8286-02c2e179bfab.jpg" group-title="South Movie", Temper (2015)
+https://pixeldrain.dev/api/file/VbxZ22ps?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/dbf7bf05-7c5e-471e-9037-30da5488a1c6.jpg" group-title="South Movie", Winner (2017)
+https://pixeldrain.dev/api/file/YS3SnsQd?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ba74f8e4-b12e-4d27-8f76-bad956a8c824.jpg" group-title="South Movie", Idhu Enna Maayam (2015)
+https://pixeldrain.dev/api/file/vnpqKkds?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/9950a805-e049-4425-993d-d8da4dee4398.jpg" group-title="South Movie", Nenu Sailaja (2016)
+https://pixeldrain.dev/api/file/pMrRsMAZ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d4298931-b3d8-455c-b7c6-bc76b210ad31.jpg" group-title="South Movie", Remo (2016)
+https://pixeldrain.dev/api/file/ihfd5JWr?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ae0e397d-7465-4854-bd0d-a68ead97a7b1.jpg" group-title="South Movie", Aranmanai (2014)
+https://pixeldrain.dev/api/file/aLHPva2G?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/25c8eb0c-8547-4e62-a32e-3e5815747cfc.jpg" group-title="South Movie", Aranmanai 2 (2016)
+https://pixeldrain.dev/api/file/WnEAHriZ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/86bf0e1a-0c12-46f5-a83f-6a0def4b334f.jpg" group-title="South Movie", Aranmanai 3 (2021)
+https://pixeldrain.dev/api/file/ySJ7jSGX?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ddd03e1f-a49f-4062-9014-bc1ca08af907.jpg" group-title="South Movie", Aranmanai 4 (2024)
+https://pixeldrain.dev/api/file/e7VfpCez?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/8fc8f202-0c2a-419c-8584-c0a1d2a74811.jpg" group-title="South Movie", Oxygen (2017)
+https://pixeldrain.dev/api/file/838Zku6i?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e4ff543b-8533-45ad-96ee-f820a9bf92aa.jpg" group-title="South Movie", DJ: Duvvada Jagannadham (2017)
+https://pixeldrain.dev/api/file/uFxrw6ur?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/5573b508-4d90-419b-b910-9da9d5d67b44.jpg" group-title="Bangla Dubbed Movie", DJ: Duvvada Jagannadham (2017)
+https://pixeldra.in/api/file/TdSUUe7o?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/45c0585c-c9c1-4c99-8a12-9c75bc76105b.jpg" group-title="South Movie", Mr. Majnu (2019)
+https://pixeldrain.com/api/file/FJvNVS79?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/da626c46-8ecd-46c0-8038-f0457271083e.jpg" group-title="South Movie", Fidaa (2017)
+https://pixeldrain.com/api/file/Z8VdcjvV?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e02f9891-1ed0-45fc-86d2-6ac8266ae3b4.jpg" group-title="South Movie", U Turn (2018)
+https://pixeldrain.dev/api/file/e7F57y16?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/55abafcc-82b4-451f-be63-b4e70788a36f.jpg" group-title="South Movie", Master (2021)
+https://pixeldrain.dev/api/file/4qFDWQ4Y?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2c2f0b38-071a-4a13-838c-b8159c1e3bf2.jpg" group-title="South Movie", Republic (2021)
+https://pixeldrain.dev/api/file/6jF8iCrx?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/998b13f5-b25a-432b-a986-082a5c00ae96.jpg" group-title="South Movie", Ka Pae Ranasingam (2020)
+https://pixeldrain.dev/api/file/z6jFSNhV?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/de46afcf-e6df-44ec-9787-6e7a3d49685e.jpg" group-title="South Movie", F3: Fun and Frustration (2022)
+https://pixeldrain.dev/api/file/c7p1Z225?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/84b1c840-aede-41f9-86b6-83126731d118.jpg" group-title="South Movie", F2 Fun and Frustration (2019)
+https://pixeldrain.dev/api/file/p51ANAZb?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b901596e-bb41-48b7-9480-0dbebc528fc7.jpg" group-title="Bangla Dubbed Movie", F2: Fun and Frustration (2023)
+https://pixeldra.in/api/file/N3UWPKSG?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/55d6a9e9-44ef-4ddf-9aa7-ee1ee4c451f4.jpg" group-title="South Movie", Alex Pandian (2013)
+https://pixeldrain.dev/api/file/mYX7cbpL?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/38518497-3ba6-46dd-b962-894eece5aea1.jpg" group-title="South Movie", Sarrainodu (2016)
+https://pixeldrain.dev/api/file/aY9wpagS?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fe569ec1-71c2-441a-b3c5-a01135010770.jpg" group-title="South Movie", Jai Bhim (2021)
+https://pixeldrain.dev/api/file/3wKsmRFg?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0ddae445-3518-45ba-889a-3e21dbe523e0.jpg" group-title="South Movie", Krack (2021)
+https://pixeldrain.dev/api/file/R78BB65y?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/42409767-0a7a-49ce-8ac9-1692f4868863.jpg" group-title="South Movie", Solo Brathuke So Better (2020)
+https://pixeldrain.dev/api/file/u8hRFwo5?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/4e126335-96ed-4b85-8acf-58e59fca7a23.jpg" group-title="Bangla Dubbed Movie", Krack (2021)
+https://pixeldra.in/api/file/u3EttYq3?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/cc928ef0-fb11-4663-b3d0-914a2a8b6f20.jpg" group-title="South Movie", Mirchi (2013)
+https://pixeldrain.com/api/file/BktJeonS?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7b34f2c3-4811-42ee-96c8-aec3c7eb83a8.jpg" group-title="South Movie", Yevadu (2014)
+https://pixeldrain.com/api/file/xCbxwcab?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ab769278-1cec-4c8a-a13d-73c7b4b136d2.jpg" group-title="South Movie", Balupu (2013)
+https://pixeldrain.dev/api/file/kMBuAR3c?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c2010d9f-10d2-4357-92ae-fad251ba0a86.jpg" group-title="South Movie", RRR (2022)
+https://pixeldrain.dev/api/file/WWsrf9XX?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a6d55a45-3b8f-4610-94d8-5e9a19fbdfbf.jpg" group-title="South Movie", Shivam (2015)
+https://pixeldrain.dev/api/file/f8XS9uqq?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a020434e-b808-4dd2-bf35-99b9c9ff52b8.jpg" group-title="South Movie", Vinaya Vidheya Rama (2019)
+https://pixeldrain.com/api/file/Lc1HDsrv?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0f99ae66-ba3a-4e60-87b8-be90a1546288.jpg" group-title="South Movie", Thiruttu Payale 2 (2017)
+https://pixeldrain.dev/api/file/pUN7Yty6?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/85602e3d-7f27-47a3-a973-5995e4484b4a.jpg" group-title="South Movie", Kalki 2898 AD (2024)
+https://pixeldrain.dev/api/file/hA8FfeZ8?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3ff45b14-5c76-49ce-8b2c-39c8a94fa3f2.jpg" group-title="South Movie", Narappa (2021)
+https://pixeldrain.dev/api/file/Rs1ZGJsC?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/8f1eba03-b7c5-48b0-8284-9a1fb8480e80.jpg" group-title="South Movie", Padi Padi Leche Manasu (2018)
+https://pixeldrain.dev/api/file/Zo85mkZ8?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/feb0f30a-0943-4b41-8387-75d7b068c5f5.jpg" group-title="South Movie", Naachiyaar (Tejasvini 2) (2018)
+https://pixeldrain.dev/api/file/FpxLUTFo?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b046aa25-2bb0-400e-b9cc-2d21b26851ac.jpg" group-title="South Movie", Tik Tik Tik (2018)
+https://pixeldrain.dev/api/file/f6GcHMqg?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/aec1f586-1bd0-4724-91a0-3b39a3d9ea07.jpg" group-title="South Movie", Beast (Raw) (2022)
+https://pixeldrain.dev/api/file/wrGVzQLX?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ce5bb134-417a-4450-80c0-b3e737fead7f.jpg" group-title="South Movie", Rabhasa (2014)
+https://pixeldrain.dev/api/file/PACL1QG4?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/5d18f4b9-9de1-46c8-974d-c0a478305c5b.jpg" group-title="South Movie", Kaathuvaakula Rendu Kaadhal (2022)
+https://pixeldrain.dev/api/file/q4vr5bY8?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d092ba61-d43b-4f4c-aaf8-202e69f1e07d.jpg" group-title="South Movie", Laabam (2021)
+https://pixeldrain.dev/api/file/ynr6zc2u?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ed4ee784-f807-48bf-8f5d-ba6c2be32ee9.jpg" group-title="South Movie", DSP (2022)
+https://pixeldrain.dev/api/file/ic2ibENh?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/4f189387-d0d8-48b4-8630-d5f18ba63d65.jpg" group-title="South Movie", Tughlaq Durbar (2021)
+https://pixeldrain.dev/api/file/2S5GuoJS?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/73d9b5ae-eb46-412c-b07c-bdff47a8d306.jpg" group-title="South Movie", Mersal (2017)
+https://pixeldrain.dev/api/file/UAZkDUQR?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2d2e37cc-64aa-4cc6-980d-a73bb3a77e66.jpg" group-title="Bangla Dubbed Movie", Mersal (2017)
+https://pixeldra.in/api/file/McRd8TsY?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0a419282-0c00-4229-8ea4-b2c7d679f497.jpg" group-title="South Movie", Bhairava (2018)
+https://pixeldrain.dev/api/file/e3kAxkNn?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c70d60a0-7ee7-4e94-9d25-433dd066cc98.jpg" group-title="South Movie", Bigil (2019)
+https://pixeldrain.dev/api/file/gBYiQCLW?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1117f5e4-e4ed-42c2-bc27-95012ca388b4.jpg" group-title="South Movie", Annaatthe (2021)
+https://pixeldrain.dev/api/file/KKLXA2nG?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/80e674cf-98ef-4554-a0d1-a4d89b3fe846.jpg" group-title="South Movie", Don Seenu (2010)
+https://pixeldrain.dev/api/file/74UcbALw?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/9c657aa2-310b-4feb-9864-2b4290a17192.jpg" group-title="South Movie", Touch Chesi Chudu (2018)
+https://pixeldrain.dev/api/file/CxaJtqcX?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/765deb16-0f7a-411e-97fe-fca2ba9fff97.jpg" group-title="South Movie", Power Unlimited (2014)
+https://pixeldrain.dev/api/file/M55ZNKpq?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6d4e155a-a3fe-494a-9972-4ab8865c1b72.jpg" group-title="South Movie", Hyper (2016)
+https://pixeldrain.dev/api/file/MbEM8WPC?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/94c80a42-0c84-4416-8335-e6902a64729f.jpg" group-title="South Movie", Jilla (2014)
+https://pixeldrain.dev/api/file/XJkjDfje?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/8ab7ef27-9962-41c0-b453-7a88f9f8ba08.jpg" group-title="South Movie", Silukkuvarupatti Singam (2018)
+https://pixeldrain.dev/api/file/Du6TL6Jc?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a663927d-534f-4176-b724-ea84d654027a.jpg" group-title="South Movie", Raju Gari Gadhi 2 (2017)
+https://pixeldrain.com/api/file/hnPRa4cX?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/29d6c2a5-5649-4050-aeb1-f9e320af7229.jpg" group-title="South Movie", Singam 3 (2017)
+https://pixeldrain.dev/api/file/E63yUN4j?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ff531bd5-0774-4765-a80f-3141c32cba5b.jpg" group-title="South Movie", Spyder (2017)
+https://pixeldrain.dev/api/file/UKsNmK4H?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/4885efb6-b298-4d05-9151-b5635af46cfd.jpg" group-title="South Movie", Singam 2 (2013)
+https://pixeldrain.dev/api/file/mbNDchoe?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ff272a72-df57-4d15-ae2e-2d9370333061.jpg" group-title="South Movie", Khaleja (2010)
+https://pixeldrain.dev/api/file/eg9gYk7S?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/5cd35045-e2c7-4c08-9216-90f52c34d00e.jpg" group-title="South Movie", Magadheera (2009)
+https://pixeldrain.dev/api/file/66tg5E9U?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/eba3ffb6-44e7-4bec-8626-fc68dfac0561.jpg" group-title="South Movie", Sita (Sita Ram) (2019)
+https://pixeldrain.dev/api/file/GqZDJFBa?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/53b79e4d-b358-4424-a614-3ab1eda9c7af.jpg" group-title="South Movie", Kavacham (2018)
+https://pixeldrain.dev/api/file/9SLPdUYx?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/959b656a-d4f7-4184-bcfb-e282d2c779b9.jpg" group-title="South Movie", MLA (2018)
+https://pixeldrain.dev/api/file/y4nET5Qz?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1f4c2a70-c3f2-404a-836d-55c7b87f978e.jpg" group-title="South Movie", Govindudu Andarivadele (2014)
+https://pixeldrain.dev/api/file/yKDQX5Hu?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0e884961-6783-4ce9-9946-d3c5e0d84cf9.jpg" group-title="South Movie", Sarocharu (2012)
+https://pixeldrain.dev/api/file/4wrCRfMD?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c015566e-aeec-4de3-8b74-1eeaf9ac2bb1.jpg" group-title="South Movie", Naayak (2013)
+https://pixeldrain.dev/api/file/ZApApK1h?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/916adcf9-3298-4137-ab8f-e45a61366203.png" group-title="South Movie", Adhurs (2010)
+https://pixeldrain.dev/api/file/w3mwVTsH?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a4bcb9cd-1335-4f4b-aaf6-72176f6e5bc9.jpg" group-title="South Movie", Awe (2018)
+https://pixeldrain.dev/api/file/w2uUqP1T?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1bab674d-65e8-435d-99cb-90193444e675.jpg" group-title="South Movie", Naan Mahaan Alla (2010)
+https://pixeldrain.dev/api/file/bnVG3SYb?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/63e9d642-d9a4-4450-9507-15446a67f96b.jpg" group-title="South Movie", Businessman (2012)
+https://pixeldrain.dev/api/file/NEdW95PU?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2e8a8b15-3700-4a38-b31f-45bb076275b0.jpg" group-title="South Movie", Raatchasi (2019)
+https://pixeldrain.com/api/file/XjcKYKLq?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/bbda7851-e5df-40df-83ac-2de0da7d76e3.jpg" group-title="South Movie", Speedunnodu (2013)
+https://pixeldrain.dev/api/file/RhCVT76k?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/8fdf2bbc-8397-49c8-b65a-5b44065ae96c.jpg" group-title="South Movie", A Aa (2016)
+https://pixeldrain.dev/api/file/cUXZ5RMk?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f27a61b6-b4db-47d0-8e34-4d214275ab91.jpg" group-title="South Movie", Chal Mohan Ranga (2018)
+https://pixeldrain.dev/api/file/WMH8iUTt?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/600be7fc-c982-48e6-a199-320c39fedc37.jpg" group-title="South Movie", Skanda (2023)
+https://pixeldrain.dev/api/file/CQERyFQv?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fd41e982-9852-4c1d-b2b0-5753eb5ac159.jpg" group-title="South Movie", Guntur Kaaram (2024)
+https://pixeldrain.dev/api/file/2zA9yFPK?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ede1e6e1-b165-46d3-be5b-89fabb924999.jpg" group-title="South Movie", Dhamaka (2022)
+https://pixeldrain.dev/api/file/ZXfJMGTU?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/279bb493-4d39-4118-82bc-3e397b2fc622.jpg" group-title="South Movie", Sarileru Neekevvaru (2020)
+https://pixeldrain.dev/api/file/heCWHJpN?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2dd4d314-93b9-41b5-ad60-0183c4caf238.jpg" group-title="South Movie", Bharat Ane Nenu (2018)
+https://pixeldrain.dev/api/file/7Vqm2s6v?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/da904d82-45c6-4aaf-a6c0-9bb80a45d759.jpg" group-title="South Movie", The Warriorr (2022)
+https://pixeldrain.dev/api/file/i93uNEoS?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/77538dbb-9f3d-4c81-9b5c-1a4748f02b01.jpg" group-title="South Movie", Hello Guru Prema Kosame (2018)
+https://pixeldrain.dev/api/file/RTZE6oHK?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/35ebe9b7-5869-4013-b6d3-e9c1f8b95dca.jpg" group-title="South Movie", Vaathi (2023)
+https://pixeldrain.dev/api/file/sepejgMw?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/bf447f99-bca0-494f-a71e-682b3f7a3066.jpg" group-title="South Movie", Varisu (2023)
+https://pixeldrain.dev/api/file/YZMp9koo?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/085f4722-ba6d-4e0f-b396-34a2324a2f19.jpg" group-title="South Movie", Kushi (2023)
+https://pixeldrain.dev/api/file/5m4W7xuK?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f544af28-fd11-428b-8582-8403ceee0f4c.jpg" group-title="South Movie", Ravanasura (2023)
+https://pixeldrain.dev/api/file/8AUuVV3R?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/adb0b2f8-409f-4269-8e81-353bb2682c69.jpg" group-title="South Movie", Maaveeran (2023)
+https://pixeldrain.dev/api/file/4A2fGEJu?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/85d2921f-0eb0-4976-8155-07adaaffae2d.jpg" group-title="South Movie", Virupaksha (2023)
+https://pixeldrain.dev/api/file/uDdjCLhN?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0af0df8b-731a-4c84-999c-3ff806f41ed7.jpg" group-title="South Movie", Iraivan (2023)
+https://pixeldrain.dev/api/file/SQnhZNqm?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/dc57e6b5-7096-44f9-8b6b-f57a2fab7547.jpg" group-title="South Movie", Miss Shetty Mr Polishetty (2023)
+https://pixeldrain.dev/api/file/mCeYXsVD?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/22b828ec-5db1-4b42-ba07-9cac0a514794.jpg" group-title="South Movie", Bhola Shankar (2023)
+https://pixeldrain.dev/api/file/LMcEr4Jb?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ebb87dde-2146-4662-9257-6b5c811b0800.jpg" group-title="South Movie", Raayan (2024)
+https://pixeldrain.dev/api/file/6d3jfoqn?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b7cdb9ec-b83e-437c-abb1-918c7caffd79.jpg" group-title="South Movie", Maharaja (2024)
+https://pixeldrain.dev/api/file/k7mLzznG?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/9ae6f212-6e80-4a40-927d-05b473dae01e.jpg" group-title="South Movie", Tillu Square (2024)
+https://pixeldrain.dev/api/file/LiBNtpTA?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/38a8ace2-79ed-4dc3-8776-bec1ad04ad95.jpg" group-title="South Movie", Bhagavanth Kesari (2023)
+https://pixeldrain.dev/api/file/hiEKGrRT?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6d4403f6-d954-4ff6-a226-3fa4e83155c9.jpg" group-title="South Movie", Raja the Great (2017)
+https://pixeldrain.dev/api/file/eqw68xHD?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fef23330-b3a0-4d03-99a0-9bbf30c7af06.jpg" group-title="South Movie", Madras (2014)
+https://pixeldrain.dev/api/file/Rnq544tJ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7225470e-2398-4f1c-a1e7-cc83b8ffb65a.jpg" group-title="South Movie", World Famous Lover (2020)
+https://pixeldrain.dev/api/file/tb5eDj3D?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/df3154f6-3fad-40d7-b0dc-a19a6f8c5846.jpg" group-title="South Movie", Aruvam (2019)
+https://pixeldrain.dev/api/file/cmfv2DZr?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/02080a61-a025-4844-86fd-7fa6b7f55a3c.jpg" group-title="South Movie", Jaya Janaki Nayaka (2017)
+https://pixeldrain.dev/api/file/N6M6ANEy?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d2d10c35-bf1a-4342-9849-1389d93b3099.jpg" group-title="South Movie", Goutham Nanda (2017)
+https://pixeldrain.dev/api/file/imBazeSn?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f18c3b14-c1ad-413f-a84f-5a4d52b2a7b7.jpg" group-title="South Movie", Geetha Govindam (2018)
+https://pixeldrain.dev/api/file/PEhkBw9w?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/70d0827f-6cdc-44be-8f3e-52d73775e49f.jpg" group-title="South Movie", Bheeshma (2020)
+https://pixeldrain.dev/api/file/g9XxbqfP?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/34598863-60a3-42b4-9239-11d540e4884b.jpg" group-title="South Movie", Jaanu (2020)
+https://pixeldrain.dev/api/file/TeYjjXi1?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/319ece5d-4782-4fb1-b910-d51f37a1912f.jpg" group-title="South Movie", Maestro (2021)
+https://pixeldrain.dev/api/file/o2q4UfkD?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c06c785d-c2c4-449b-ac6f-5a45dd321a4b.jpg" group-title="South Movie", Arjun Reddy (2017)
+https://pixeldrain.dev/api/file/AaLw39H2?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2fb266b3-8a41-47c5-843e-6408db2e1529.jpg" group-title="South Movie", Loafer (2015)
+https://pixeldrain.dev/api/file/bju6pgaC?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3a6ba337-09d0-45e9-b00b-bb84ded2f75f.jpg" group-title="South Movie", Romeo Juliet (2015)
+https://pixeldrain.dev/api/file/fSEyGmNX?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/91543bfc-b161-48b8-9541-791501d980b6.jpg" group-title="South Movie", Krishna Gaadi Veera Prema Gaadha (2016)
+https://pixeldrain.dev/api/file/XZNAts3r?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/4f09def3-dc9f-4711-8b66-ff8241abd006.jpg" group-title="South Movie", Veera (2011)
+https://pixeldrain.dev/api/file/p54crFL1?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c4ea5470-f467-4194-87bc-af4028f50de7.jpg" group-title="South Movie", Khaleja (2010)
+https://pixeldrain.dev/api/file/eg9gYk7S?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/606c1a05-2dd5-41ce-a83a-ebd85659ec09.jpg" group-title="South Movie", Nene Naa (Meenakshi) (2023)
+https://pixeldrain.dev/api/file/MvPBNa1c?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/def8ae3e-ba6c-4e46-92d8-c13cc60d6420.jpg" group-title="South Movie", Kodi (2016)
+https://pixeldrain.dev/api/file/7K3ntery?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fd11d8fc-aaa6-4236-a6cd-ae17e240ec84.jpg" group-title="South Movie", Naa Saami Ranga (2024)
+https://pixeldrain.dev/api/file/HPVz4AuV?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f7a8fc93-13ad-43d0-8f03-f7e7a4835628.jpg" group-title="South Movie", Singam (2010)
+https://pixeldrain.dev/api/file/BgJ7Ni2b?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b4683981-fcbc-4afd-b43d-b17409125c44.jpg" group-title="South Movie", Amaran (2024)
+https://pixeldrain.dev/api/file/zp3oy2rQ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/df5b1dd6-446e-487b-9f79-733dfa721b5c.jpg" group-title="South Movie", Sir (2024)
+https://pixeldrain.dev/api/file/PZEmDbEF?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/8b605360-0fce-4def-8c65-fba2b4f14adf.jpg" group-title="South Movie", Karungaapiyam (2023)
+https://pixeldrain.dev/api/file/pQWWBqVt?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/71ddf3f0-2e78-46b3-a16e-2e6f537f4055.jpg" group-title="South Movie", Thudikkum Karangal (2023)
+https://pixeldrain.dev/api/file/t5vKP2Hd?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c53ee3cf-4773-423e-933c-4576a36145a2.jpg" group-title="South Movie", Mister (2017)
+https://pixeldrain.dev/api/file/HTHgq42z?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/9c749fbb-cfa9-4187-b8f7-f840661dcdf9.jpg" group-title="South Movie", Santhu Straight Forward (2016)
+https://pixeldrain.dev/api/file/1Dk5bqzU?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0cf3dbe3-7c28-40ad-b22c-011e7efc9959.jpg" group-title="South Movie", Velayudham (2011)
+https://pixeldrain.dev/api/file/WVj2rgy8?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d77e4fa6-9a41-4fce-94be-bce3a9ec7ce9.jpg" group-title="South Movie", Nenu Local (2017)
+https://pixeldrain.dev/api/file/PVw2NgfM?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3c29f065-bb2e-41b8-a6cd-08a6c7f69626.jpg" group-title="South Movie", Agnyaathavaasi-Yevadu 3 (2018)
+https://pixeldrain.dev/api/file/NLPKcQxp?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/4cbb47b2-246f-40f9-abce-167d5dd65e57.jpg" group-title="South Movie", Heart Attack (2014)
+https://pixeldrain.dev/api/file/o9EjFYpb?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a0fab30b-7ca1-4f1d-930f-b7411a30ce34.jpg" group-title="South Movie", Sardaar Gabbar Singh (2016)
+https://pixeldrain.dev/api/file/qqS8rXy9?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/968e1151-ac19-409f-9d41-585da12ac93a.jpg" group-title="South Movie", Sindhubaadh (2019)
+https://pixeldrain.dev/api/file/pkHJed74?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/4f50a7bd-4a15-4ea5-b7b5-d214ead38ff4.jpg" group-title="South Movie", Aranmanai 4 (2024)
+https://pixeldrain.dev/api/file/EF7CFRwo?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/76ecc0b5-0db4-4fd1-bb45-3b7f7671ccf2.jpg" group-title="South Movie", Dasara (2023)
+https://pixeldrain.dev/api/file/f7ih441E?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/87c25cee-1e49-499c-9ae5-fc416383aeb8.jpg" group-title="South Movie", Brindaavanam (2010)
+https://pixeldrain.dev/api/file/PQj1EyiL?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/177e4c10-e79a-47fa-8e5d-81a8c2d3dca4.jpg" group-title="South Movie", Journey of Love 18+ (2023)
+https://pixeldrain.dev/api/file/W7dir6s2?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d5abaa4f-66f6-4275-a45d-9c09107b041f.jpg" group-title="South Movie", Athidhi (2007)
+https://pixeldrain.dev/api/file/XCq7zULR?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a5d36125-d376-4572-a7a7-9aaae0a30aac.png" group-title="South Movie", The Greatest of All Time (2024)
+https://pixeldrain.com/api/file/gZKa3tnN?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/4fcec1a2-30c0-4a9f-9691-6e519e1575bd.jpg" group-title="South Movie", Silly Fellows (2018)
+https://pixeldrain.dev/api/file/jTvy9119?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/163f002a-3987-4cc6-845e-91f982d26c3d.jpg" group-title="South Movie", Gabbar Singh (2012)
+https://pixeldrain.dev/api/file/yAJgeAUH?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e77f3d23-64a0-45c3-bb5d-8fe229fad768.jpg" group-title="South Movie", Ranga (2022)
+https://pixeldrain.dev/api/file/XDBUU8j4?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0bb5331e-b14e-46f8-8107-ec911e1dcd78.jpg" group-title="South Movie", Pogumidam Vegu Thooramillai (2024)
+https://pixeldrain.dev/api/file/q6cNnKRb?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/eb15b447-bb8a-4061-8daf-72c6a54bddaa.jpg" group-title="South Movie", Double iSmart (2024)
+https://pixeldrain.dev/api/file/LzNciMAW?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/916dffa9-a169-4cab-baa1-fdd69ea885d1.jpg" group-title="South Movie", Sabari (2024)
+https://pixeldrain.dev/api/file/jhGKHpPH?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6dcbd290-5a67-45be-a35e-57104f81a7be.jpg" group-title="South Movie", Vaazhai (2024)
+https://pixeldrain.dev/api/file/LxV5eH5J?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2c174097-4d2f-42d6-b4ad-6dd47f586b5a.jpg" group-title="South Movie", Love Story (2021)
+https://pixeldrain.dev/api/file/mzJP3wcb?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/da6c9b22-a921-4a1d-88c9-b7db4316c762.jpg" group-title="South Movie", Hello! (2017)
+https://pixeldrain.dev/api/file/k4xW3P5j?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/935c729f-5730-4c13-83e0-6dde4bd16f93.jpg" group-title="South Movie", MCA Middle Class Abbayi (2017)
+https://pixeldrain.dev/api/file/vC1Rzw8h?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c53de113-9384-41d7-80ef-7c970500a3d2.jpg" group-title="South Movie", Googly (2013)
+https://pixeldrain.dev/api/file/LYcb8Zmc?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/8e37e17a-6420-47f4-b33b-7003ae52ff99.jpg" group-title="South Movie", Dhruva (2016)
+https://pixeldrain.dev/api/file/fiz8viEf?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/258f5e0e-3020-4432-b93e-1707a68d56ae.jpg" group-title="South Movie", Aagadu (2014)
+https://pixeldrain.dev/api/file/Turu5YF3?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ceddcfd2-29e1-4da2-9d48-d3dcc0afb51c.jpg" group-title="South Movie", Hey Sinamika (2022)
+https://pixeldrain.dev/api/file/dYa3Zpnr?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/82badb90-6d3c-4e8b-98d1-a335c3013663.jpg" group-title="South Movie",Tholi Prema (2018)
+https://pixeldrain.dev/api/file/24HiQCx4?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/11adc648-b099-4770-b5dc-e3565d1650b1.png" group-title="South Movie",PT Sir (2024)
+https://pixeldrain.dev/api/file/zvTjkvfS?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3b517912-903d-438c-9781-23f467ff2cd2.jpg" group-title="South Movie",Kondal (2024)
+https://pixeldrain.dev/api/file/d2PAcJnH?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1a5af5a5-4abe-4d84-b2f3-0a7b0b903d62.jpg" group-title="South Movie",Level Cross (2024)
+https://pixeldrain.dev/api/file/XpGMJ4rS?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c761dcc4-e125-47f3-aa0b-919e65f54d36.jpg" group-title="South Movie",Rangula Ratnam (2018)
+https://pixeldrain.dev/api/file/Yc1a4JRW?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/683a945a-e14c-44ca-b7d4-4aec677b5c31.jpg" group-title="South Movie",Golimar (2010)
+https://pixeldrain.dev/api/file/Suj8C9pf?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d84c8544-f303-455e-81f9-7e61789d9065.jpg" group-title="South Movie",Dev (2019)
+https://pixeldrain.dev/api/file/MgomTrhC?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/5f6bf3e7-dc72-493a-8a02-64d24289d286.jpg" group-title="South Movie",Rogue (2017)
+https://pixeldrain.dev/api/file/HtxeC5vt?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2199fc46-801f-4c41-991a-75f02673feb9.jpg" group-title="South Movie",Surya The Soldier (2018)
+https://pixeldrain.dev/api/file/qzSLLqUw?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f37c871a-c361-41bd-ae4e-4f9cca3b3bd3.jpg" group-title="South Movie",Taxiwaala (2018)
+https://pixeldrain.dev/api/file/FC57VYfy?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/cde3c432-9ff3-4ee2-83c3-f7021b8f7b85.jpg" group-title="South Movie",Archana 31 Not Out (2022)
+https://pixeldrain.dev/api/file/9Mw11kDE?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/818f69c0-ff0e-4d7e-b2b4-7198d4319fcb.jpg" group-title="South Movie",Dorasaani (Tejasvini 3) (2019)
+https://pixeldrain.dev/api/file/fv2hEXUL?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0435fd49-59c1-4eac-9328-3e90ada1e9e3.jpg" group-title="South Movie",Nannaku Prematho (2016)
+https://pixeldrain.dev/api/file/cUuK5it5?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/497ada3a-d0dc-4280-8682-720b76027d0d.jpg" group-title="South Movie",Sankarabharanam (Encounter Man 2) (2015)
+https://pixeldrain.dev/api/file/mpqJUzUt?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2905d606-2126-4794-8094-7add24f1eb07.jpg" group-title="Bangla Dubbed Movie",Vaazhai (2024) Bengali-Hindi
+https://pixeldrain.dev/api/file/Wy6gkmVT?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/69a0469b-cdd5-43af-9f12-cb63fc470d1b.jpg" group-title="South Movie",Kannum Kannum Kollaiyadithaal (2020)
+https://pixeldrain.dev/api/file/tCQJwFyv?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ac2014c4-9faf-48eb-958e-8ea387f51d95.jpg" group-title="South Movie",Meiyazhagan (2024)
+https://pixeldrain.dev/api/file/FsJp4C6z?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/face6719-1bc0-45ba-9cf5-6f6c4f779ca7.jpg" group-title="South Movie",Ginna (2022)
+https://pixeldrain.dev/api/file/DbSuQBf2?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/62420552-31d7-402d-b9c7-c486aedde1f6.jpg" group-title="South Movie",Rangabali (2023)
+https://pixeldrain.dev/api/file/h2jNizC9?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/dced8cff-e84d-4426-9b20-a556a6ae5a38.jpg" group-title="South Movie",Lubber Pandhu (2024)
+https://pixeldrain.dev/api/file/dBBYhihS?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/933ec765-e79c-4578-b90a-3c3eb2f3624a.jpg" group-title="South Movie",Paiyaa (2010)
+https://pixeldrain.dev/api/file/iQ3bFwuh?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/75b418bd-9989-4744-b3ea-02ec8234b48a.jpg" group-title="South Movie",Wanted (2011)
+https://pixeldrain.dev/api/file/MiEKh4S3?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/647aee96-b30c-4a5b-954a-ce9ba9f9af9e.jpg" group-title="South Movie",Akhanda (2021)
+https://pixeldrain.dev/api/file/zrXYseXg?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/264f4518-220c-4a69-829e-dfc58cffe4d1.jpg" group-title="South Movie",Pushpa: The Rise Part 1
+https://pixeldrain.dev/api/file/UVR34Cue?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/4a211b31-f79a-4088-be98-a67881f67db2.jpg" group-title="South Movie",Maragadha Naanayam (2017)
+https://pixeldrain.dev/api/file/THxR8mhf?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fe6713bb-5660-4fc2-98c9-3bd2145db52b.jpg" group-title="South Movie",Kozhipannai Chelladurai (2024)
+https://pixeldrain.dev/api/file/xRaa7XbP?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c67d4b74-f84b-4308-bea7-2aae967a889d.png" group-title="South Movie",Vettaiyan (2024)
+https://pixeldrain.dev/api/file/BwFALJZo?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/253aa34f-a365-478f-923b-3daf39b45873.jpg" group-title="South Movie",Sangathamizhan (2019)
+https://pixeldrain.dev/api/file/6J9xtBEw?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/4009d9b4-6d2f-4203-a32b-4599a34b9203.jpg" group-title="South Movie",Ghajinikanth (2018)
+https://pixeldrain.dev/api/file/ddM1LB1m?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c16892ac-458c-4994-8aee-834e51549052.jpg" group-title="South Movie",Sahasam (2013)
+https://pixeldrain.dev/api/file/zom5JXJJ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1d4c8856-56a4-46c6-a759-a71ef1a2dd8f.jpg" group-title="South Movie",Sahasam Swasaga Sagipo (2016)
+https://pixeldrain.dev/api/file/NRycmDo4?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/5b9d7a27-89ee-4545-81e8-158507d5b6a0.jpg" group-title="South Movie",96 (2018)
+https://pixeldrain.dev/api/file/D17QXHts?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c4993440-9898-43da-9d90-6e0f29c61d10.jpg" group-title="South Movie",Tarzan The Heman (Vanamagan)
+https://pixeldrain.dev/api/file/KzDCQpfv?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7f620110-c4b3-4ff5-a5fd-3f03a91c3875.jpg" group-title="South Movie",Thuppakki (2012)
+https://pixeldrain.dev/api/file/sHzxYiLu?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/35a434ff-6a59-4c0c-80c3-101c06f08803.jpg" group-title="South Movie",Run Raja Run (2014)
+https://pixeldrain.dev/api/file/qSzigxkd?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/57243377-987d-4504-a6ab-ab1dd2790a4b.jpg" group-title="South Movie",Devara Part 1 (2024)
+https://pixeldrain.dev/api/file/JC7yCy34?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e5dc9f4d-85a3-4071-b9fe-4956d3534d9b.jpg" group-title="South Movie",Geethanjali Malli Vachindi (2024)
+https://pixeldrain.dev/api/file/pYKHtCNc?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/cf4f19bc-10a9-400b-94ec-f6631267bb17.jpg" group-title="South Movie",Kombu Vatcha Singamda (2022)
+https://pixeldrain.dev/api/file/ZxFW7qXa?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/bb222560-abd7-4f95-9f8a-cacb160d4614.jpg" group-title="South Movie",Naan Sigappu Manithan (2014)
+https://pixeldrain.dev/api/file/9SM3E2Tq?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7670597e-48bc-4b11-a9e9-12dd89d6b290.jpg" group-title="South Movie",Darling (2010)
+https://pixeldrain.dev/api/file/5j1QvKM9?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1c04266f-fa35-425f-a8d5-4b0a2d540f64.jpg" group-title="South Movie",Macherla Niyojakavargam (2022)
+https://pixeldrain.dev/api/file/zbVFUSmW?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a2e38392-ece3-4556-bdb6-dc9d289b8ca7.jpg" group-title="South Movie", Brand Babu (2018)
+https://pixeldrain.dev/api/file/TND8xkgN?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ab94ef4d-7f79-4fe5-b29c-143b6f1f9fbd.jpg" group-title="South Movie", iSmart Shankar (2019)
+https://pixeldrain.dev/api/file/nTECqGVt?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/324e298f-826c-4f8b-848e-f35390fdfd03.jpg" group-title="South Movie", Arundhati (2009)
+https://pixeldrain.dev/api/file/LWDb57jc?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/15213ec3-eaf9-4d07-b73d-fd0059374abd.jpg" group-title="South Movie", Race Gurram (2014)
+https://pixeldrain.dev/api/file/yGtSvdzG?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/5eba1977-0ed4-4bd4-bbe4-308f3d5b52bd.jpg" group-title="South Movie", Kandireega (2011)
+https://pixeldrain.dev/api/file/joTEEzFX?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fe5c71a5-8633-43d5-86e7-31a8240a36d8.jpg" group-title="South Movie", Iddarammayilatho (2013)
+https://pixeldrain.dev/api/file/PJLui5tZ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/67f67f20-4f0a-41af-a75f-32326726ea4d.jpg" group-title="South Movie", Julayi (2012)
+https://pixeldrain.dev/api/file/K5S19vv2?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ad2abab9-ba6e-4966-a240-afb382328253.jpg" group-title="South Movie", Chirutha (2007)
+https://pixeldrain.com/api/file/CSvbNayA?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/67730e38-6795-42d1-9f84-52b3b3c1720c.jpg" group-title="South Movie", Paayum Puli (2015)
+https://pixeldrain.dev/api/file/JibSuLLb?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d3726f7d-8ea9-4f25-8fc1-2287bc9deb16.jpg" group-title="South Movie", Aadavallu Meeku Johaarlu (2022)
+https://pixeldrain.dev/api/file/7PCAcpL9?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/22256f3f-4b58-41ea-94e9-9a76dfc7c2cf.jpg" group-title="South Movie", Sura (2010)
+https://pixeldrain.dev/api/file/YWMuHDft?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c22c5b31-0fc5-4ab6-931d-f614f9fc4189.jpg" group-title="South Movie", Miruthan (2016)
+https://pixeldrain.dev/api/file/KJK7wuH8?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ca93fd8c-0eae-4de9-a693-11a49a0cdc68.jpg" group-title="South Movie", Ayan (2009)
+https://pixeldrain.dev/api/file/2tK3K2Ek?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/12bec0f1-57a4-4be6-8f72-b9c99689992a.jpg" group-title="South Movie", Rudhran (2023)
+https://pixeldrain.dev/api/file/hrijd7hC?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/615ac11f-85ed-4735-aa00-be6099b2a5d9.jpg" group-title="South Movie", Poojai (2014)
+https://pixeldrain.dev/api/file/EMMtbcNz?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0000201b-f1d1-4f09-8f6b-0d92b3db8a15.jpg" group-title="South Movie", Sivaji: The Boss (2007)
+https://pixeldrain.dev/api/file/CAJrcsvq?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a78c2563-93c5-4846-b5eb-6d4f98478a0f.jpg" group-title="South Movie", Vedam (2010)
+https://pixeldrain.dev/api/file/cC1kkUhP?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/893181a8-eef5-4604-b89d-a06c602358fc.jpg" group-title="South Movie", Racha (2012)
+https://pixeldrain.dev/api/file/YtSs7niS?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2edce3cc-1412-452a-987a-ee88ffe99fe7.jpg" group-title="South Movie", Seethamma Vakitlo Sirimalle Chettu (2013)
+https://pixeldrain.dev/api/file/qkrWmzPL?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0eece3f0-54ee-4b90-a804-08c836e6e9de.jpg" group-title="South Movie", Siren (2024)
+https://pixeldrain.dev/api/file/dZtmWgDf?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ea588756-3e7a-4a5d-a379-9ea2d13d1721.jpg" group-title="South Movie", Kiss (2019)
+https://pixeldrain.dev/api/file/gHc2k9PR?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/aa4a7120-5e7d-49d0-816c-8564e66db0b5.jpg" group-title="South Movie", Tiger Nageswara Rao (2023)
+https://pixeldrain.dev/api/file/h9Fj9Ziw?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fbda24bf-fb7f-4b31-af27-bae15528da05.jpg" group-title="South Movie", Anaganaga O Athidhi (2020)
+https://pixeldrain.dev/api/file/VwSgreeR?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7d7bc122-4aa4-4897-8c52-8466f5330053.jpg" group-title="South Movie", Mr. Perfect (2011)
+https://pixeldrain.dev/api/file/wyEpt8ik?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/121449f8-6890-471c-8e79-6b0e693d522d.jpg" group-title="South Movie", Gargi (2022)
+https://pixeldrain.dev/api/file/mXnHs5gA?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2879d379-e287-4c8b-b4d6-d764ebd8a2f1.jpg" group-title="South Movie", Bhimaa (2024)
+https://pixeldrain.dev/api/file/GQC8nm6q?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/cf41fa5d-28f6-4d9a-b261-169ba17e166a.jpg" group-title="South Movie", Varshangalkku Shesham (2024)
+https://pixeldrain.dev/api/file/oDASnqEs?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/bed1fe07-dc8e-439d-b9d5-f65af3499f51.jpg" group-title="South Movie", Malayalee From India (2024)
+https://pixeldrain.dev/api/file/KwSjbM8L?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/967ff468-61e7-42c6-bc14-216a17702381.jpg" group-title="South Movie", Turbo (2024)
+https://pixeldrain.dev/api/file/UkohvHJJ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/de2c02c8-39a7-48dd-b8e4-c223bd022b12.jpg" group-title="South Movie", Baahubali 2: The Conclusion (2017)
+https://pixeldrain.dev/api/file/JqRcmn3N?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/017f19fa-022a-4998-a78e-e94eb05f6842.jpg" group-title="South Movie", Son Of Satyamurthy (2015)
+https://pixeldrain.dev/api/file/o5eJQHtg?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/52b8af0f-a1b7-48cd-862e-369f17e27439.jpg" group-title="South Movie", Bachchan (2013)
+https://pixeldrain.dev/api/file/5ABdbygE?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e9b6a198-d3d7-48f0-9b02-56f26cf37108.jpg" group-title="South Movie", Arya 2 (2009)
+https://pixeldrain.dev/api/file/55mjfZQk?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/dbbbfb6c-d821-4924-8327-09cb32170fd8.jpg" group-title="South Movie", Garam (2016)
+https://pixeldrain.dev/api/file/7BSPgGxh?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/ebe3d466-bcb3-4578-b948-3c05eef558a1.jpg" group-title="South Movie", Ratham (2018)
+https://pixeldrain.dev/api/file/jTUkdsVL?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a8caeb9b-d990-46b0-a02b-ca605f1905a3.jpg" group-title="South Movie", Selfie (2022)
+https://pixeldrain.dev/api/file/7C4kQ4k3?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/68f0190d-ef9c-4bc0-8ade-4bbe95d35fc8.jpg" group-title="South Movie", Krishnarjuna Yudham (2018)
+https://pixeldrain.dev/api/file/1cAv9D8c?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2c90538e-d57c-40ce-8038-207d02e89299.jpg" group-title="South Movie", Vikramarkudu (2006)
+https://pixeldrain.dev/api/file/fSYZ8ju4?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/485d7ec4-accb-4948-8d65-fbe5a6293adc.jpg" group-title="South Movie", Sundari (2021)
+https://pixeldrain.dev/api/file/VU9cbBxA?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2a14f52a-0385-4178-9acd-dc804bbeb405.jpg" group-title="South Movie", Rathnam (2024)
+https://pixeldrain.dev/api/file/uqSLpYqA?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7efd04cc-154d-41cc-aa58-b20434a83f10.jpg" group-title="South Movie", Leo (2023)
+https://pixeldrain.dev/api/file/egDY38mW?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e80e387a-a131-4d1f-8bbc-16dbb2e82e00.jpg" group-title="South Movie", The Family Star (2024)
+https://pixeldrain.dev/api/file/r5jBXzYW?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0be1d080-c998-47c9-8c03-565df91280fc.jpg" group-title="South Movie", Pathu Thala (2023)
+https://pixeldrain.dev/api/file/686aEXgn?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/47c9ce12-3661-44b8-b8ec-6d116ca7bd7c.jpg" group-title="South Movie", Ghilli (2004)
+https://pixeldrain.dev/api/file/1A23MA9n?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fc48d05e-6d7e-47a2-8c83-7f89603bda65.jpg" group-title="South Movie", Thalaivaa (2013)
+https://pixeldrain.dev/api/file/SarTaB7t?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e549a8cf-6c14-41ce-86ef-d16232cc38c6.jpg" group-title="South Movie", Devudu Chesina Manushulu (2012)
+https://pixeldrain.dev/api/file/fCvhv7ax?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/db6395a9-bee7-4d03-b3db-4e152f4143e2.jpg" group-title="South Movie", Dhammu (2012)
+https://pixeldrain.dev/api/file/KHXCuU8H?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/476e9893-bc0c-4400-a6a7-3bfecb1bdf74.jpg" group-title="South Movie", Masterpiece (2015)
+https://pixeldrain.dev/api/file/1awYhSWu?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/5575102e-7f67-42ad-813c-19151ef83021.jpg" group-title="South Movie", Ramarao On Duty (2022)
+https://pixeldrain.dev/api/file/WxTNjsJj?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/daa65f2c-e1af-4e64-b2c8-123373ed99de.jpg" group-title="South Movie", Dharma Durai (2016)
+https://pixeldrain.dev/api/file/Pg57Yoxk?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b00f80a3-668e-4760-bd95-f372c4c9c434.jpg" group-title="South Movie", Aravinda Sametha Veera Raghava (2018)
+https://pixeldrain.dev/api/file/cHLVFgin?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d3917ce7-8844-44c9-80b7-91ab599fa1c2.jpg" group-title="South Movie", Lift (2021)
+https://pixeldrain.dev/api/file/cwSwqToz?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/86bc83c2-3f20-4d70-a40f-e4eeec6ed6df.jpg" group-title="South Movie", Kaththi (2014)
+https://pixeldrain.dev/api/file/LrgKZLD3?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/3590860b-2340-4665-b4ed-115002332087.jpg" group-title="South Movie", 24 (2016)
+https://pixeldrain.dev/api/file/vBp7PASD?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2f19c832-76f5-4405-9e34-2816a1d11341.jpg" group-title="South Movie", Inttelligent (2018)
+https://pixeldrain.dev/api/file/FYMNZux1?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c8de3982-7cd4-4739-a12b-08bd603e48c2.jpg" group-title="South Movie", Oosaravelli (2011)
+https://pixeldrain.dev/api/file/MtdGs4BX?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/59c8fbe8-2e6f-4465-a67c-415b3120d9ae.jpg" group-title="South Movie", Savyasachi (2018)
+https://pixeldrain.dev/api/file/2S1yTkSV?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/5da10c36-8a64-45ea-8a3f-4f90eb474360.jpg" group-title="South Movie", Gimmick (2019)
+https://pixeldrain.dev/api/file/mEJBm5Kx?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a8409f7a-0c1b-4cfe-ace1-69e3b6e02bf0.jpg" group-title="South Movie", Velaikkaran (2017)
+https://pixeldrain.dev/api/file/Xyu1Y8jy?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/954fd665-b64a-40b8-9f1b-ec783ef9ff48.jpg" group-title="South Movie", Manam (2014)
+https://pixeldrain.dev/api/file/JGSu9UzH?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/98750501-72e1-4ef2-96ac-c039abab281f.jpg" group-title="South Movie", Salaar (2023)
+https://pixeldrain.dev/api/file/XTeQHqSx?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f1b83011-3503-40e5-b883-0b728bd17677.jpg" group-title="South Movie", Saripodhaa Sanivaaram (2024)
+https://pixeldrain.dev/api/file/8oGmGhAT?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/152d1d92-2848-452e-bc91-cabe812d9b83.jpg" group-title="South Movie", Lanka (2017)
+https://pixeldrain.dev/api/file/sgrjiLNn?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a0bfb7a2-aae5-4531-96e5-f526a8b368cc.jpg" group-title="South Movie", Vaazha: Biopic of a Billion Boys (2024)
+https://pixeldrain.dev/api/file/cxyvpt8L?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d7ae6896-ef71-492d-8321-174df73c8ac4.jpg" group-title="South Movie", Anandham Vilayadum Veedu (2021)
+https://pixeldrain.dev/api/file/CU5PkSBG?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e1530116-b5b4-4766-a0c7-482c671cd087.jpg" group-title="South Movie", Don (2022)
+https://pixeldrain.dev/api/file/A223y8DB?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f46d46e3-cc51-4dfb-96d9-aa376e001c5f.jpg" group-title="South Movie", Baahubali: The Beginning (2015)
+https://pixeldrain.dev/api/file/8QfaPbEr?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/19bbe700-c96d-4156-8bc6-d042743afdfb.jpg" group-title="South Movie", Pakka Commercial (2022)
+https://pixeldrain.dev/api/file/D5J3Z31K?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/074abb5c-2214-4cb3-bc20-6c6203523183.jpg" group-title="South Movie",Nuvvostanante Nenoddantana (2005)
+https://pixeldrain.dev/api/file/zgeLNSK6?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/34776ad2-b4d9-43d2-9bed-600f20acf3a6.jpg" group-title="South Movie",Kalakalappu 2 (2018) 
+https://pixeldrain.dev/api/file/2ksX7n1Q?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/fbb6cb54-69fb-4914-8cb9-3ca0ab7d4945.jpg" group-title="South Movie",Sakthi (2011)
+https://pixeldrain.dev/api/file/LEDD73q1?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c036f830-e63d-4970-8ae1-d805d10e841c.jpg" group-title="South Movie",Mr. Bachchan (2024)
+https://pixeldrain.dev/api/file/7TmeuFLc?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/87fbe1d0-1ed1-41ef-abd7-a48dc87de936.jpg" group-title="South Movie",Eagle (2024)
+https://pixeldrain.dev/api/file/zVBmUSZ6?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b69b6066-fd05-4cd9-9332-f876e56d78a1.jpg" group-title="South Movie",Thiruchitrambalam (2022) 
+https://pixeldrain.dev/api/file/YbXXsy8x?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/f04543cb-3a16-4da3-aae6-d7136938a462.jpg" group-title="South Movie",Bhramam (2021) 
+https://pixeldrain.dev/api/file/fhJ2exUv?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7e45a9c5-ad5a-4638-9d84-2b2aa46c54f3.jpg" group-title="South Movie",Pushpa: The Rule - Part 2 (2024)
+https://pixeldrain.dev/api/file/wTwNk13u?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/e5e1f28a-582c-4cb5-bd47-94a946f9385a.jpg" group-title="South Movie",Kathakali (2016)
+https://pixeldrain.dev/api/file/9wj9LViY?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/a65cae09-b079-4af8-b377-927f1e98a94f.jpg" group-title="South Movie",Kadhalikka Neramillai (2025) 
+https://pixeldrain.dev/api/file/GMheRNrP?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/c3c88df4-30e2-4d39-9f7f-ea3d63e89613.jpg" group-title="South Movie",Sulthan (2021) 
+https://pixeldrain.dev/api/file/SDvrV8kg?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/2b1771e9-a2f9-48d9-81ab-c5adbdb2320c.jpg" group-title="South Movie",Sankrathiki Vasthunam (2025) 
+https://pixeldrain.dev/api/file/zhkRx8WQ?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/422c962c-1591-43c5-b993-eb6ab11900b9.jpg" group-title="South Movie",VidaaMuyarchi (2025) 
+https://pixeldrain.dev/api/file/vMDVhGc4?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/37e04cf3-3450-4706-a25a-2021e7375ea8.png" group-title="South Movie",Thandel (2025) 
+https://pixeldrain.dev/api/file/xCpvTNsy?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/cc79d463-91ca-4493-b2f6-2cf259d10814.jpg" group-title="South Movie",Rewind (2024)
+https://pixeldrain.dev/api/file/ZCQoutwm?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/0c2e60b6-918c-49e4-92cd-fe2ecdcbb706.jpg" group-title="Bangla Dubbed Movie",Accident or Conspiracy Godhra (2025)
+https://pixeldrain.dev/api/file/6pfV7sdw?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7713b2d9-0def-45f1-94f4-f8231f267be3.jpg" group-title="Bangla Dubbed Movie",Soothravakyam (2025)
+https://pixeldrain.dev/api/file/HRfxkL3W?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7d8c4c05-57de-4e97-813a-99852aeb77f6.webp" group-title="Bangla Dubbed Movie",Bhamakalapam 2 â€“ Super Housewife 2 (2025)
+https://pixeldrain.dev/api/file/fZfkY6w9?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/b8047b92-39a9-48a4-bc43-9373fc65faa0.jpg" group-title="Bangla Dubbed Movie",Chaurya Paatham (2025)
+https://pixeldrain.dev/api/file/4Qzi8G6Z?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/1e72420e-cd68-47d7-ac06-d428cdb17161.jpg" group-title="Bangla Dubbed Movie",Mr & Mrs 420 Again (2025)
+https://pixeldrain.dev/api/file/H2wYtThk?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/d034c14c-6d0e-439f-b745-664053e6cefa.jpg" group-title="Bangla Dubbed Movie",Good Day (2025)
+https://pixeldrain.dev/api/file/t8tRmcPE?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/7b25715a-508e-4d7e-80ae-937c0bd54292.jpg" group-title="Bangla Dubbed Movie",Bombhaat (2025)
+https://pixeldrain.dev/api/file/w46RGkDu?download
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/9bb73680-6092-422d-a75e-444b413047f4.jpg" group-title="Bangla Dubbed Movie",Thuppakki (2025)
+https://pixeldrain.dev/api/file/U479f9mt?download
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7dKbtRhd/20250428-175512.jpg" group-title="SR BDIX South" , Ala Vaikunthapurramuloo (2020)
 https://pixeldrain.dev/api/file/tjwq5q3z?download
 
@@ -8254,5 +9491,3 @@ https://pixeldrain.dev/api/file/BzS1Nk11?download
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW2PgGLd/20250716-211158.jpg" group-title="SR BDIX Hollywood", Heads of State (2025) Multi Audio
 https://pixeldrain.dev/api/file/na1kTevn?download
-
-
